@@ -1,0 +1,181 @@
+{
+  "source": "theme",
+  "animation_type": "default",
+  "background": "page_bg_01",
+  "width": -1,
+  "height": -1,
+  "gravity": "l_0|t_0",
+  "view_config_path": "home/view_config.json",
+  "wallpaper_support": "true",
+  "config": [
+    {
+      "page_bg": "page_bg_01",
+      "apps_bg": "apps_bg_01",
+      "page_config": [
+        {
+          "soft_type": "time",
+          "width": 400,
+          "height": 194,
+          "gravity": "l_44|t_60",
+          "config_file_path": "time/time_config.json",
+          "view_config_path": "time/view_config.json",
+          "background": "time_weather_bg"
+        },
+        {
+          "soft_type": "weather",
+          "width": 196,
+          "height": 194,
+          "gravity": "l_248|t_60",
+          "config_file_path": "weather/weather_config.json",
+          "view_config_path": "weather/view_config.json",
+          "background": ""
+        },
+        {
+          "soft_type": "image",
+          "width": 2,
+          "height": 35,
+          "gravity": "l_69|t_154",
+          "config_file_path": "",
+          "view_config_path": "",
+          "background": "time_dot"
+        },
+
+
+        {
+          "soft_type": "local_music|bt_music|spotify",
+          "width": 377,
+          "height": 218,
+          "gravity": "l_33|t_214",
+          "config_file_path": "media/media_config.json",
+          "view_config_path": "media/media_view_config_1.json",
+          "background": ""
+        },
+        {
+          "soft_type": "local_music|bt_music|spotify",
+          "width": 377,
+          "height": 218,
+          "gravity": "l_33|t_214",
+          "config_file_path": "media/media_config.json",
+          "view_config_path": "media/media_view_config.json",
+          "background": "music_bg"
+        },
+        {
+          "soft_type": "local_radio",
+          "width": 377,
+          "height": 120,
+          "gravity": "l_33|t_446",
+          "config_file_path": "media/media_config.json",
+          "view_config_path": "media/media_view_config.json",
+          "background": "radio_bg"
+        },
+
+
+        {
+          "soft_type": "speed_effect",
+          "width": 745,
+          "height": 386,
+          "gravity": "l_410|t_60",
+          "config_file_path": "car/speed_effect_config_0.json",
+          "view_config_path": "car/speed_effect_view_config.json",
+          "background": ""
+        },
+        {
+          "soft_type": "speed_effect",
+          "width": 745,
+          "height": 386,
+          "gravity": "l_410|t_60",
+          "config_file_path": "car/speed_effect_config_1.json",
+          "view_config_path": "car/speed_effect_view_config.json",
+          "background": "car"
+        },
+        {
+          "soft_type": "navi",
+          "width": 558,
+          "height": 255,
+          "gravity": "l_450|t_166",
+          "config_file_path": "navi/navi_widget_config.json",
+          "view_config_path": "navi/navi_widget_view_config.json"
+        },
+
+        {
+          "soft_type": "speed_text",
+          "width": 150,
+          "height": 90,
+          "gravity": "l_637|t_72",
+          "view_config_path": "car/speed_text_view_config.json"
+        },
+
+
+        {
+          "soft_type": "image",
+          "width": 552,
+          "height": 120,
+          "gravity": "l_434|t_446",
+          "config_file_path": "",
+          "view_config_path": "",
+          "background": "h_apps_bg"
+        },
+        {
+          "soft_type": "app",
+          "width": 70,
+          "height": 90,
+          "gravity": "l_450|t_466",
+          "use_app_widget": true,
+          "view_config_path": "home/app_widget_view_config2.json",
+          "background": "",
+          "editable":true
+        },
+        {
+          "soft_type": "app",
+          "width": 70,
+          "height": 90,
+          "gravity": "l_540|t_466",
+          "use_app_widget": true,
+          "view_config_path": "home/app_widget_view_config2.json",
+          "background": "",
+          "editable":true
+        },
+        {
+          "soft_type": "app",
+          "width": 70,
+          "height": 90,
+          "gravity": "l_630|t_466",
+          "use_app_widget": true,
+          "view_config_path": "home/app_widget_view_config2.json",
+          "background": "",
+          "editable":true
+        },
+        {
+          "soft_type": "app",
+          "width": 70,
+          "height": 90,
+          "gravity": "l_720|t_466",
+          "use_app_widget": true,
+          "view_config_path": "home/app_widget_view_config2.json",
+          "background": "",
+          "editable":true
+        },
+        {
+          "soft_type": "app",
+          "width": 70,
+          "height": 90,
+          "gravity": "l_810|t_466",
+          "use_app_widget": true,
+          "view_config_path": "home/app_widget_view_config2.json",
+          "background": "",
+          "editable":true
+        },
+        {
+          "soft_type": "app",
+          "width": 70,
+          "height": 90,
+          "gravity": "l_900|t_466",
+          "use_app_widget": true,
+          "view_config_path": "home/app_widget_view_config2.json",
+          "background": "",
+          "editable":true
+        }
+      ]
+    }
+  ]
+}

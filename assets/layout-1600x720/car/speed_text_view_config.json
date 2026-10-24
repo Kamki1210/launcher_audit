@@ -1,0 +1,25 @@
+{
+  "source": "theme",
+  "attributes": [
+    {
+      "": "车速文字",
+      "id_name": "tv_carspeed_text",
+      "width": -2,
+      "height": -2,
+      "gravity": "t_0|center_horizontal",
+      "text_size": 60,
+      "text_color": "@color/day_night_text_color",
+      "typeface": ""
+    },
+    {
+      "": "车速单位",
+      "id_name": "tv_carspeed_unit",
+      "width": -2,
+      "height": -2,
+      "gravity": "bottom|center_horizontal",
+      "text_size": 24,
+      "text_color": "@color/day_night_text_color",
+      "typeface": ""
+    }
+  ]
+}

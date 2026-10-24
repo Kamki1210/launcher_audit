@@ -1,0 +1,2237 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: gh4JVvn2N7j7kD/DjDAZBivXP7U=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: Uo95BfQR+J6dNWAMxVMqfbAWEP4=
+
+Name: assets/apps/apps_config.json
+SHA1-Digest: QiXb9vMQfhk7mv3UDGzySPlyU5c=
+
+Name: assets/apps/view_config.json
+SHA1-Digest: DwKpd0Nedeks8uIflqagjfNioHE=
+
+Name: assets/car/adas_config.json
+SHA1-Digest: pAVW7DcEGL9H+Eoo/GT0YtxUHk0=
+
+Name: assets/car/speed_effect_config_0.json
+SHA1-Digest: SsPwJaMOCrq1dgJ2Fl46kZnIICQ=
+
+Name: assets/car/speed_effect_config_1.json
+SHA1-Digest: 5DMzswU7wY2vp0UdjvWTxC0wJxE=
+
+Name: assets/car/speed_effect_view_config.json
+SHA1-Digest: Tprvj78gPl9YVo3AiwScgFyyZ+E=
+
+Name: assets/car/speed_meter_config.json
+SHA1-Digest: uA4fWTWlnzrtNlfQ9WEohFB944g=
+
+Name: assets/car/speed_text_view_config.json
+SHA1-Digest: tG+ul4PfOgdz6OZgN2L6YGRcvSo=
+
+Name: assets/clock/clock_config.json
+SHA1-Digest: wqH5FcPVptKUGFaX0xLAtZnmTWk=
+
+Name: assets/fonts/HarmonyOS_Sans_Regular.ttf
+SHA1-Digest: /DVKVLXajtrJ+q2fn2PvFVS8EsM=
+
+Name: assets/home/app_widget_view_config.json
+SHA1-Digest: w9vb+UuqEnyGuBKo2aJiI85vQ0s=
+
+Name: assets/home/app_widget_view_config2.json
+SHA1-Digest: +5ht00kynDq82ma2TL6gVKGxAjQ=
+
+Name: assets/home/view_config.json
+SHA1-Digest: UjEglx/qbwZOtS+gzaE+Y1P/vFo=
+
+Name: assets/import_theme_info_config.json
+SHA1-Digest: aof+ua1b2sWmbKz7J9/gaTkFcHA=
+
+Name: assets/layout-1280x720/apps/apps_config.json
+SHA1-Digest: 6rcZTh4CeL4Ub+TH+TKbBl0MgHg=
+
+Name: assets/layout-1280x720/apps/view_config.json
+SHA1-Digest: ghj0uZ0KHZi+cLztEMloeQWdUio=
+
+Name: assets/layout-1280x720/car/adas_config.json
+SHA1-Digest: VPhsFO/s9c9dMEJ+TuQLar9n4bs=
+
+Name: assets/layout-1280x720/car/speed_effect_config_0.json
+SHA1-Digest: Z82+9QtUSBfgtFBIx4FIcZz2lWE=
+
+Name: assets/layout-1280x720/car/speed_effect_config_1.json
+SHA1-Digest: 03bsnRAWF1iIvdaFRWvtNZijKJc=
+
+Name: assets/layout-1280x720/car/speed_effect_view_config.json
+SHA1-Digest: j2JuRGJz+7/Vj//6fM7RCq2JzNY=
+
+Name: assets/layout-1280x720/car/speed_meter_config.json
+SHA1-Digest: X3qNftiws8YhW7NIFPeZbMuMCyY=
+
+Name: assets/layout-1280x720/car/speed_text_view_config.json
+SHA1-Digest: x3kC7rfRMs3ZSPxSVZk+QElH1eQ=
+
+Name: assets/layout-1280x720/clock/clock_config.json
+SHA1-Digest: v9nu7s1jcER+rDSBtKJyBDiyXs0=
+
+Name: assets/layout-1280x720/fonts/HarmonyOS_Sans_Regular.ttf
+SHA1-Digest: ahajkBxgPavhF6QQ9nG1p2c0tiA=
+
+Name: assets/layout-1280x720/fonts/Impact.ttf
+SHA1-Digest: uk+ujiAc20Jec0II/UzMOc9rZNU=
+
+Name: assets/layout-1280x720/home/app_widget_view_config.json
+SHA1-Digest: 8yM6RIZe87gkbiuXKJW8tpUE5gc=
+
+Name: assets/layout-1280x720/home/app_widget_view_config2.json
+SHA1-Digest: C7qHA2lkoF5BRqu8z+Xgm8h+gqg=
+
+Name: assets/layout-1280x720/home/view_config.json
+SHA1-Digest: HP+hb+N0D7VIvcLJDLkncQ2npt8=
+
+Name: assets/layout-1280x720/lego/lego_config.json
+SHA1-Digest: WgxyjYWvHM6v8bD3HmvQoqhKVFE=
+
+Name: assets/layout-1280x720/lego/view_config.json
+SHA1-Digest: VSfdUTbOls82rE9O4GPnFBDL5qU=
+
+Name: assets/layout-1280x720/link_icon_config.json
+SHA1-Digest: AwFUfKZ0z+F7Y6JEfK6XAaYis6k=
+
+Name: assets/layout-1280x720/media/media_config.json
+SHA1-Digest: lm6LiZ9P81WlxeH+gpYL3o2Y82I=
+
+Name: assets/layout-1280x720/media/media_view_config.json
+SHA1-Digest: zVNfoiqz47UT47BYzRU+hDCPbZE=
+
+Name: assets/layout-1280x720/media/media_view_config_1.json
+SHA1-Digest: YIjUQkvKkPfKxT5TlGwfOBrSHN8=
+
+Name: assets/layout-1280x720/navi/navi_widget_config.json
+SHA1-Digest: lZkZ2Nfm5WILb2X1Ay0igCSbbf0=
+
+Name: assets/layout-1280x720/navi/navi_widget_view_config.json
+SHA1-Digest: HCJur3hnjUlEpQhn4s2K8hRplWM=
+
+Name: assets/layout-1280x720/theme_config.json
+SHA1-Digest: Zu6zthCh7AbUzI5BK1+AOp2liZE=
+
+Name: assets/layout-1280x720/time/time_config.json
+SHA1-Digest: Cx6vSMoVo7YMceq0+H5Lazk9geg=
+
+Name: assets/layout-1280x720/time/view_config.json
+SHA1-Digest: LlbuXo6sK3lryNHRgbDusfWfWqQ=
+
+Name: assets/layout-1280x720/weather/view_config.json
+SHA1-Digest: bHXgVrt753tmpguebNoucAsV7dI=
+
+Name: assets/layout-1280x720/weather/weather_config.json
+SHA1-Digest: 8fRzVQWsD5d3bZl64jvobQU1A2M=
+
+Name: assets/layout-1600x720/apps/apps_config.json
+SHA1-Digest: 1SdoZtBtLwIwcSKPgiC4DasI0ec=
+
+Name: assets/layout-1600x720/apps/view_config.json
+SHA1-Digest: yACe6rl/0dELEcS5SvpepcIGi8A=
+
+Name: assets/layout-1600x720/car/adas_config.json
+SHA1-Digest: HYgB9l40oNLe+7na+lWUO7c0A5A=
+
+Name: assets/layout-1600x720/car/speed_effect_config_0.json
+SHA1-Digest: xyFkbpdweELWWuw4XVZIJgmJEEg=
+
+Name: assets/layout-1600x720/car/speed_effect_config_1.json
+SHA1-Digest: YdyppQ6KwS9P6I+W3gezxQqRfpU=
+
+Name: assets/layout-1600x720/car/speed_effect_view_config.json
+SHA1-Digest: FFa+WBP5/LW9M1KCcceR6kZh3SY=
+
+Name: assets/layout-1600x720/car/speed_meter_config.json
+SHA1-Digest: o3dvoVj6Jp4xaa8qeGGKjqnXW/4=
+
+Name: assets/layout-1600x720/car/speed_text_view_config.json
+SHA1-Digest: IYJYBbH3ja+Rgr8XY0rn8v36B+s=
+
+Name: assets/layout-1600x720/clock/clock_config.json
+SHA1-Digest: Q4//sfmwZ1wc+xGTvL8XoWYhgG8=
+
+Name: assets/layout-1600x720/fonts/HarmonyOS_Sans_Regular.ttf
+SHA1-Digest: 8AKm3irmWvmGEmlN4q0Vmol7z40=
+
+Name: assets/layout-1600x720/fonts/Impact.ttf
+SHA1-Digest: gWGXWgV5qW0oraPfpiqbCv3VFTU=
+
+Name: assets/layout-1600x720/home/app_widget_view_config.json
+SHA1-Digest: Y2sggv7pxTUaOtcbv1/kD0zRKEw=
+
+Name: assets/layout-1600x720/home/app_widget_view_config2.json
+SHA1-Digest: pwt7t6KP42jnrxp1lodPgMDBouM=
+
+Name: assets/layout-1600x720/home/view_config.json
+SHA1-Digest: VL1H5CDavisE0muAxJexSPf86Qs=
+
+Name: assets/layout-1600x720/lego/lego_config.json
+SHA1-Digest: 4X7NmCxYygWVWocbE60qQs5lIPk=
+
+Name: assets/layout-1600x720/lego/view_config.json
+SHA1-Digest: 1odgl1SotPx44M2XBuQv6arcrqk=
+
+Name: assets/layout-1600x720/link_icon_config.json
+SHA1-Digest: T1LAvr7edmaVQtYRBN5IrU9ZRo4=
+
+Name: assets/layout-1600x720/media/media_config.json
+SHA1-Digest: oB6p82NcP/a8VHkTlkKll+9A6mQ=
+
+Name: assets/layout-1600x720/media/media_view_config.json
+SHA1-Digest: zv/6ef22nrOYBH73adM3dM4VV1g=
+
+Name: assets/layout-1600x720/media/media_view_config_1.json
+SHA1-Digest: FQiNWct71drnI1eYmUdklhC6C3Y=
+
+Name: assets/layout-1600x720/navi/navi_widget_config.json
+SHA1-Digest: Jmj2AIpA3fHKjRySOkEqSaFWwlk=
+
+Name: assets/layout-1600x720/navi/navi_widget_view_config.json
+SHA1-Digest: zt357iLYPpo3bx0e5/nCizG0Kgg=
+
+Name: assets/layout-1600x720/theme_config.json
+SHA1-Digest: kbWdRzSqpsXvu9BZ1LgQSlUAohg=
+
+Name: assets/layout-1600x720/time/time_config.json
+SHA1-Digest: ns1JkLvs6MTv5g4P9jqdvUmX6bE=
+
+Name: assets/layout-1600x720/time/view_config.json
+SHA1-Digest: korp/Qh3Oe9GfDvush8DkiTO0Wg=
+
+Name: assets/layout-1600x720/weather/view_config.json
+SHA1-Digest: 1f0xB/4jnO377QAQYxYTHAEE/Ew=
+
+Name: assets/layout-1600x720/weather/weather_config.json
+SHA1-Digest: ylSRwFpMgId8T1yMisC9RoLfHxQ=
+
+Name: assets/layout-1920x720/apps/apps_config.json
+SHA1-Digest: bcOnxKlbY/ShbqaGYcWWGRy55z4=
+
+Name: assets/layout-1920x720/apps/view_config.json
+SHA1-Digest: ucxAOBB5/PaLftgb9VKrrrcbjdY=
+
+Name: assets/layout-1920x720/car/adas_config.json
+SHA1-Digest: oAUv7OUITBnMaWruF/1XxV0InEY=
+
+Name: assets/layout-1920x720/car/speed_effect_config_0.json
+SHA1-Digest: oYQb8bkVxNbU63nAjtWCMtTF/YM=
+
+Name: assets/layout-1920x720/car/speed_effect_config_1.json
+SHA1-Digest: VtAFKksffkcRjla8p4XzDlok4a0=
+
+Name: assets/layout-1920x720/car/speed_effect_view_config.json
+SHA1-Digest: MrgM/Q9PEGhJN3CJinHLvUJFq2M=
+
+Name: assets/layout-1920x720/car/speed_meter_config.json
+SHA1-Digest: zKUaC6M20048lGM3khLt6GhqW0I=
+
+Name: assets/layout-1920x720/car/speed_text_view_config.json
+SHA1-Digest: y6sq/QmVgVUVoEFZubB5sc2iWtk=
+
+Name: assets/layout-1920x720/clock/clock_config.json
+SHA1-Digest: LV5GLV3cNTEIqrDWOaghZk6MI/E=
+
+Name: assets/layout-1920x720/fonts/HarmonyOS_Sans_Regular.ttf
+SHA1-Digest: qw9vls1BwB/cPVjTusBEhGGR+8k=
+
+Name: assets/layout-1920x720/fonts/Impact.ttf
+SHA1-Digest: pkMXifXuaPrlvv5r17Qa19ea4sI=
+
+Name: assets/layout-1920x720/home/app_widget_view_config.json
+SHA1-Digest: QY1cyBmp5zft3DfYOiuNZ5xS2Dw=
+
+Name: assets/layout-1920x720/home/app_widget_view_config2.json
+SHA1-Digest: k16s4LaLjKKlCgr71YDhI6xTC2g=
+
+Name: assets/layout-1920x720/home/view_config.json
+SHA1-Digest: 78T5QZGZXu2357GyvMlFtT9fYRE=
+
+Name: assets/layout-1920x720/lego/lego_config.json
+SHA1-Digest: 8qXo+Bsk37RPPWmCpDDCqW/lG3g=
+
+Name: assets/layout-1920x720/lego/view_config.json
+SHA1-Digest: b7X443wDcTvBQa1cRrq7MV7IqBo=
+
+Name: assets/layout-1920x720/link_icon_config.json
+SHA1-Digest: 376rOYXTYZinRPdYGBQ2IN1NU0E=
+
+Name: assets/layout-1920x720/media/media_config.json
+SHA1-Digest: YcgF2DDSlyXXmLftQ0ZBELaMIQY=
+
+Name: assets/layout-1920x720/media/media_view_config.json
+SHA1-Digest: pL8/E0O7RDKJJuNlUlcNt4BbXsw=
+
+Name: assets/layout-1920x720/media/media_view_config_1.json
+SHA1-Digest: UTwQq5pqnXay/PIBLwAUbtNrO3I=
+
+Name: assets/layout-1920x720/navi/navi_widget_config.json
+SHA1-Digest: pULlBUnnP5GNxQlyoJvdXRdQ6+M=
+
+Name: assets/layout-1920x720/navi/navi_widget_view_config.json
+SHA1-Digest: QUhLbNMYhuTFd4WT7gvxLIBqW0o=
+
+Name: assets/layout-1920x720/theme_config.json
+SHA1-Digest: wmXDCMsckjavEC665lb2oSHmkqM=
+
+Name: assets/layout-1920x720/time/time_config.json
+SHA1-Digest: wb3cxF89h2fa9YLYqOscaztOOe8=
+
+Name: assets/layout-1920x720/time/view_config.json
+SHA1-Digest: 3Afs1vEB+fLIc2uzk4D2B0UAvCU=
+
+Name: assets/layout-1920x720/weather/view_config.json
+SHA1-Digest: kT965gdWyQWAoh3k2KRO/+RYnEc=
+
+Name: assets/layout-1920x720/weather/weather_config.json
+SHA1-Digest: ITzF18KMNwPsQ7hTDOhUdqWuu7c=
+
+Name: assets/layout-2000x1200/apps/apps_config.json
+SHA1-Digest: MU3MNqqHS4BAyB+Fo46Ax0O5iRw=
+
+Name: assets/layout-2000x1200/apps/view_config.json
+SHA1-Digest: EUzz9cjl52YBeFx6pAhjjKNCE7U=
+
+Name: assets/layout-2000x1200/car/adas_config.json
+SHA1-Digest: 2KK9YRG4jdWBa/nohs5x7BOWUVc=
+
+Name: assets/layout-2000x1200/car/speed_effect_config_0.json
+SHA1-Digest: 3eFCRzjLoTgZsJt7848vj8sbQJ0=
+
+Name: assets/layout-2000x1200/car/speed_effect_config_1.json
+SHA1-Digest: 2hDXVo6ykRx2q+G6I+5wtpIdAsU=
+
+Name: assets/layout-2000x1200/car/speed_effect_view_config.json
+SHA1-Digest: 4Koagg2T+mKFDXqTTdXMwWzviNs=
+
+Name: assets/layout-2000x1200/car/speed_meter_config.json
+SHA1-Digest: YtBuec7gJuAx6eXTaYqpX87halg=
+
+Name: assets/layout-2000x1200/car/speed_text_view_config.json
+SHA1-Digest: Cv+OCXupJimAf6yjnMqzdt7aRDk=
+
+Name: assets/layout-2000x1200/clock/clock_config.json
+SHA1-Digest: fEXgYKwxYI+BEA3t3M0kQCx3q6w=
+
+Name: assets/layout-2000x1200/fonts/HarmonyOS_Sans_Regular.ttf
+SHA1-Digest: 4c1JMmsp/dppvC5NEBN552fwd/E=
+
+Name: assets/layout-2000x1200/fonts/Impact.ttf
+SHA1-Digest: u0HUx6cYQ++VkVSXYKKg4hbXSkU=
+
+Name: assets/layout-2000x1200/home/app_widget_view_config.json
+SHA1-Digest: i0CVxxv9T/HWy8kCPms0uWf0vO0=
+
+Name: assets/layout-2000x1200/home/app_widget_view_config2.json
+SHA1-Digest: ZnwrJxBPE2DKVa/XoWawrlCIPok=
+
+Name: assets/layout-2000x1200/home/view_config.json
+SHA1-Digest: kda4e+vrYQ+yBmL3p6KiaDvXUS4=
+
+Name: assets/layout-2000x1200/lego/lego_config.json
+SHA1-Digest: +wFD84Md/bDuL9k7XRgUzJj/HI4=
+
+Name: assets/layout-2000x1200/lego/view_config.json
+SHA1-Digest: euMXWkGMAq538lW+BgM1Dfn0vtk=
+
+Name: assets/layout-2000x1200/link_icon_config.json
+SHA1-Digest: w/E2WdNgATJokB4xXM8/wZ0i3Ds=
+
+Name: assets/layout-2000x1200/media/media_config.json
+SHA1-Digest: 2QWehZOfWb2wMxPPLPn7bqXzu9s=
+
+Name: assets/layout-2000x1200/media/media_view_config.json
+SHA1-Digest: rTaTvb/RTjmACmHpJ1ygu6mmmVA=
+
+Name: assets/layout-2000x1200/media/media_view_config_1.json
+SHA1-Digest: u3Yszy1XjRFrPLgAyu9BS1tnw4Q=
+
+Name: assets/layout-2000x1200/navi/navi_widget_config.json
+SHA1-Digest: ThxRbzOgIrFqxi9xDVfNk8MTUk8=
+
+Name: assets/layout-2000x1200/navi/navi_widget_view_config.json
+SHA1-Digest: zvaTkEdH2D+OF0H1LgFSRR6joLE=
+
+Name: assets/layout-2000x1200/theme_config.json
+SHA1-Digest: rqDEAY/whXRVx6CfmSny9bR6d0A=
+
+Name: assets/layout-2000x1200/time/time_config.json
+SHA1-Digest: MMG8R1XplLjoC27iNSa64EvuFkg=
+
+Name: assets/layout-2000x1200/time/view_config.json
+SHA1-Digest: v8GKq/4BT5C44GueOG2Dsy7Dn0E=
+
+Name: assets/layout-2000x1200/weather/view_config.json
+SHA1-Digest: pOBk9PIWbMDuETYKOe+dn8iTbHc=
+
+Name: assets/layout-2000x1200/weather/weather_config.json
+SHA1-Digest: mLwo++1waQCWYXYwZC33FmHNKAQ=
+
+Name: assets/link_icon_config.json
+SHA1-Digest: ZSm8SvneIUIC1wKaE5pDjh5ggAU=
+
+Name: assets/media/media_config.json
+SHA1-Digest: 4gH91J8WJJ67iLP5aofyv4jiYNs=
+
+Name: assets/media/media_view_config.json
+SHA1-Digest: vYYeq4xoMsr/d2rX+RWtsjtWqxU=
+
+Name: assets/media/media_view_config_1.json
+SHA1-Digest: TKerkeso/3JMQayJ+1826mbFc3o=
+
+Name: assets/navi/navi_widget_config.json
+SHA1-Digest: zr61orO1f0wWw+JBE1NR4KsDLfQ=
+
+Name: assets/navi/navi_widget_view_config.json
+SHA1-Digest: p0q1OfP8MbPc+dAmukivmFxASnM=
+
+Name: assets/theme_config.json
+SHA1-Digest: gLtEgFF+KFJm2qRrxlkBjyMUT9w=
+
+Name: assets/time/time_config.json
+SHA1-Digest: wui2c8H0c2KDYoPG35UXWfMoIns=
+
+Name: assets/time/view_config.json
+SHA1-Digest: HbFHQC/sNvkDqiT9+0+bgrLag3w=
+
+Name: assets/weather/view_config.json
+SHA1-Digest: 0g1iTE+WJoyY6RkF95e3SdTbxK0=
+
+Name: assets/weather/weather_config.json
+SHA1-Digest: j5YyeesUDzCAcDzsP25jLowTzFY=
+
+Name: classes.dex
+SHA1-Digest: giLg8qchu4cRVI0ShhcLzJgisuY=
+
+Name: res/drawable/anim_media_progress.xml
+SHA1-Digest: 6+v+eqppZugDQaY4J1HtWGgbqJI=
+
+Name: res/drawable/media_progress_color.xml
+SHA1-Digest: Nujj6yifwbn7c4jMijlTGHU/0YQ=
+
+Name: res/drawable/selector_media_bt_pp.xml
+SHA1-Digest: DO0xPZGw19a4SiRdvTE0C5pcuZc=
+
+Name: res/drawable/selector_media_next.xml
+SHA1-Digest: FFwbrocdX//J5fGYmMT+9NpSfFg=
+
+Name: res/drawable/selector_media_play.xml
+SHA1-Digest: Jlvi1m11gN/Df/EJb+7lolq/dhs=
+
+Name: res/drawable/selector_media_previous.xml
+SHA1-Digest: IwrfKkydc2c3IylyL/1NDQGZWM4=
+
+Name: res/drawable/selector_media_radio_pp.xml
+SHA1-Digest: B45V9gsEkYc8JtBchAzQe6VHIHM=
+
+Name: res/drawable/selector_media_stop.xml
+SHA1-Digest: ju98Syhu3N1O4ouqgbK3ejVYAaA=
+
+Name: res/drawable/selector_navigation_company.xml
+SHA1-Digest: t7MfGM1Hk7xgA1+HlS1Dwu/MFjE=
+
+Name: res/drawable/selector_navigation_home.xml
+SHA1-Digest: s/YTJUUv03P/aKRXzL6MvRKgU2w=
+
+Name: res/mipmap-hdpi-v4/apps_bg_01.png
+SHA1-Digest: g6uJHJm1+ac5O9maq6BzoSosrqw=
+
+Name: res/mipmap-hdpi-v4/apps_bg_01_1600x720.png
+SHA1-Digest: veItW9kiiXrNZKDPo2sRLTgYcrs=
+
+Name: res/mipmap-hdpi-v4/apps_bg_01_1920x720.png
+SHA1-Digest: R9olj+Xpt24wQ9//EInL5BrCaGY=
+
+Name: res/mipmap-hdpi-v4/apps_bg_01_2000x1200.png
+SHA1-Digest: 0zv0rUcNJoRPIprk70UzKIHffO4=
+
+Name: res/mipmap-hdpi-v4/btn_bt_pp_icon.png
+SHA1-Digest: GSmw/EKPpofhU2R4w3Vkd4uUPzE=
+
+Name: res/mipmap-hdpi-v4/btn_bt_pp_icon_press.png
+SHA1-Digest: SqY1QdW8Yrt7pAzY0+VEj5eLttQ=
+
+Name: res/mipmap-hdpi-v4/btn_next_icon.png
+SHA1-Digest: yzCzYi4hBbmTN9Ub0pN67F9HPAU=
+
+Name: res/mipmap-hdpi-v4/btn_next_icon_press.png
+SHA1-Digest: OGo8v/ypIfJnaKDwYO+AW7DWMD4=
+
+Name: res/mipmap-hdpi-v4/btn_play_icon.png
+SHA1-Digest: u2IQra3VWJxu0coKNWl5AdO38F0=
+
+Name: res/mipmap-hdpi-v4/btn_play_icon_press.png
+SHA1-Digest: aEi5bHSrNmaCwSyGirzhRJUaS6k=
+
+Name: res/mipmap-hdpi-v4/btn_previous_icon.png
+SHA1-Digest: 9Fk33Zu1SVBXw4rSQTM5XUYz5lc=
+
+Name: res/mipmap-hdpi-v4/btn_previous_icon_press.png
+SHA1-Digest: dHOUS6VofCmZHGiK08oS+NB9fPo=
+
+Name: res/mipmap-hdpi-v4/btn_radio_pp_icon.png
+SHA1-Digest: jReVX8jxP/SCkl7aAa8olnhQ/j8=
+
+Name: res/mipmap-hdpi-v4/btn_radio_pp_icon_press.png
+SHA1-Digest: /hTbV5TfKEmNaXg01WDsxKfpKVs=
+
+Name: res/mipmap-hdpi-v4/btn_stop_icon.png
+SHA1-Digest: w5quSd5yqDkCgZDsJGbrmkQ14HA=
+
+Name: res/mipmap-hdpi-v4/btn_stop_icon_press.png
+SHA1-Digest: nSSk8enS+zEyGN+x3j7j8FHfBNU=
+
+Name: res/mipmap-hdpi-v4/h_apps.png
+SHA1-Digest: YDBLihWC2jW9LW0iZrWWiWDLDn0=
+
+Name: res/mipmap-hdpi-v4/h_apps_bg.png
+SHA1-Digest: 1roF6VMIxePc6j3lkAlkISpp1Rk=
+
+Name: res/mipmap-hdpi-v4/h_apps_bg_1920x720.png
+SHA1-Digest: dMhjtrYMyn484bBuauqH0b3ASJ4=
+
+Name: res/mipmap-hdpi-v4/media_bt_default.png
+SHA1-Digest: GR/zTKKNETLAvzlvfC1okUiIPRw=
+
+Name: res/mipmap-hdpi-v4/media_img_bg.png
+SHA1-Digest: blpw0hXXXMzHt1M0FQIW7DeDvLw=
+
+Name: res/mipmap-hdpi-v4/media_module_icon_bt.png
+SHA1-Digest: W7KL8Mk6PVZpidccEH2RvAWpY58=
+
+Name: res/mipmap-hdpi-v4/media_module_icon_cyb.png
+SHA1-Digest: /GJFTQX8AB2fGlw7+UO79xGOOeU=
+
+Name: res/mipmap-hdpi-v4/media_module_icon_kaola.png
+SHA1-Digest: EzuTvvxk5P1BpgklFkepZF4gB8o=
+
+Name: res/mipmap-hdpi-v4/media_module_icon_kw.png
+SHA1-Digest: aUUMrBMrJmLqC3DX7O/2vNQiGiM=
+
+Name: res/mipmap-hdpi-v4/media_module_icon_local_music.png
+SHA1-Digest: bT6xrRwhgU42SKqerCEmlINT7z8=
+
+Name: res/mipmap-hdpi-v4/media_module_icon_radio.png
+SHA1-Digest: mvHzff7K13OKnqjPQK5Xd20BsZo=
+
+Name: res/mipmap-hdpi-v4/media_module_icon_radio_net.png
+SHA1-Digest: SP27Qatk5qJLgyV3nCylMhZSDCw=
+
+Name: res/mipmap-hdpi-v4/media_module_icon_xmly.png
+SHA1-Digest: C01Yac8ZIL6fiUygEHhriQ5ESeg=
+
+Name: res/mipmap-hdpi-v4/media_music_default.png
+SHA1-Digest: fba5rtCyO+HU4PHE7aqDq7CycqQ=
+
+Name: res/mipmap-hdpi-v4/music_bg.png
+SHA1-Digest: 5lAsd2eEr/yV+g9two1CsIw4nU0=
+
+Name: res/mipmap-hdpi-v4/music_bg_1600x720.png
+SHA1-Digest: mRZMf/3pab0U0zplDz5XDgBnz9k=
+
+Name: res/mipmap-hdpi-v4/music_bg_1920x720.png
+SHA1-Digest: 0QUjYn9kprxQJiCttxA8yYTtlNs=
+
+Name: res/mipmap-hdpi-v4/navigation_company_normal.png
+SHA1-Digest: YfmjSoq+YLeU/YmrlXKgr/zTDaU=
+
+Name: res/mipmap-hdpi-v4/navigation_company_press.png
+SHA1-Digest: TKjNs9Fv3xs/xJoH9NjNJ5cpsw0=
+
+Name: res/mipmap-hdpi-v4/navigation_home_normal.png
+SHA1-Digest: /d6Dp+Uf6q/0KOvyo9Vr1WI3Tmc=
+
+Name: res/mipmap-hdpi-v4/navigation_home_press.png
+SHA1-Digest: tuxcZeSVR7JoT+3xMA2Q2RN3oGc=
+
+Name: res/mipmap-hdpi-v4/radio_bg.png
+SHA1-Digest: UJaLBjbvL4nKt8DFax6/cUTS6XU=
+
+Name: res/mipmap-hdpi-v4/radio_bg_1600x720.png
+SHA1-Digest: HrWMoCKkA36kjgSVz84mmu3U0AY=
+
+Name: res/mipmap-hdpi-v4/radio_bg_1920x720.png
+SHA1-Digest: tQoasI8c1lmp+IJFaSkOZyItPcE=
+
+Name: res/mipmap-hdpi-v4/time_dot.png
+SHA1-Digest: d5Toet7i4345bu7M+P55Cyd41SI=
+
+Name: res/mipmap-hdpi-v4/time_weather_bg.png
+SHA1-Digest: 34MFw8i9/gAfye29hZg2V9cwXp0=
+
+Name: res/mipmap-hdpi-v4/time_weather_bg_1920x720.png
+SHA1-Digest: 8XfyFXSOWNlpozc0oJYSUGnkEYY=
+
+Name: res/mipmap-hdpi-v4/weather_city_icon.png
+SHA1-Digest: L+j1fTDZBZwqtKuQ5Dhv39SjjxE=
+
+Name: res/mipmap-ldltr-night-v8/car.png
+SHA1-Digest: zz0HnufW6pDTK1hQ67OVVaT36XQ=
+
+Name: res/mipmap-ldltr-night-v8/car_effect_light_1.png
+SHA1-Digest: razbcrlRVMAY74beKrwB5OVponE=
+
+Name: res/mipmap-ldltr-night-v8/page_bg_01.png
+SHA1-Digest: FY3ttWH/pTmJoR96A+l1mnY6bNQ=
+
+Name: res/mipmap-ldltr-night-v8/page_bg_01_1920x720.png
+SHA1-Digest: K8J0nnxIgXRXjmVULk2evp9VGCA=
+
+Name: res/mipmap-ldltr/car.png
+SHA1-Digest: zmY5UUH9ueVcwJGHXGtmRdj6gl4=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_1.png
+SHA1-Digest: 70etwldNMNIAkal00q40Po4fjIU=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_10.png
+SHA1-Digest: LUBFVgRyQAGlBuKjl6FTUnNH9Z4=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_11.png
+SHA1-Digest: AKiwRY2ZaaPmyT8150WSGxyBcM0=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_12.png
+SHA1-Digest: BkdJFxAp7HKjQW4Kt0JTyBFckMQ=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_13.png
+SHA1-Digest: q6v6ZJBBHutbfRHE7Dv1WtobsaI=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_14.png
+SHA1-Digest: 4KxcWSge68NE4/LIsgHpgKy91dg=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_15.png
+SHA1-Digest: hZVdp7Nw9Ljo8xh2zbGgitntTHA=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_16.png
+SHA1-Digest: 3P7KEChx+fEXlHDSTA0h0zg9vng=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_17.png
+SHA1-Digest: cMKyGNqWdgZhVPLcbeNKSoPIhM0=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_18.png
+SHA1-Digest: urhu+M+6EnUQXcs5SxL20np2Xg0=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_19.png
+SHA1-Digest: XB47FApRfI5vS5TOLt0o04wZ7XQ=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_2.png
+SHA1-Digest: 4OTwgB0SNC/kUsX6HCwXFwDTzLU=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_20.png
+SHA1-Digest: +P9YgAwzm9lhM/+UAB4KXiXY5CQ=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_21.png
+SHA1-Digest: NvZdFFDm0e46CxkolVop3LXiNQw=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_22.png
+SHA1-Digest: nWn3EZizNgO/EHmu0vupZ3J2Jqc=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_23.png
+SHA1-Digest: /GcYNJ0tEUU2+Kjl1URyUNXcAg8=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_24.png
+SHA1-Digest: hblEixj5v/IAfOJSLTZ+rLdHmcA=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_25.png
+SHA1-Digest: zbkQuxKT1pTmuMOZpiVjXc+41/k=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_26.png
+SHA1-Digest: T4cDhydjmtdpuwHABv3ishCKZ84=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_27.png
+SHA1-Digest: S6Ak57tg3rMhi71kIELQnuepVmY=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_28.png
+SHA1-Digest: sBuBBW1V3l853BEEMBOHNsPzslQ=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_29.png
+SHA1-Digest: /OABbc+jntpDrx6j/7nIKTRHI3k=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_3.png
+SHA1-Digest: LCwiXgYjsj0rFcFUmDv/5UjvUI0=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_30.png
+SHA1-Digest: XV4pRwaWn+dh3bRk4PqiXahIq2k=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_31.png
+SHA1-Digest: ZPFmUzAy97ni2vTyuIKEJS270HU=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_32.png
+SHA1-Digest: aoRk3jcTtuW1jF+fB07lAMx2r3w=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_33.png
+SHA1-Digest: jfZshb3mTkrtzqIJ8dLx/f916bo=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_34.png
+SHA1-Digest: NieMVK+tmjw2/ZhJiG92Gg+bql8=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_35.png
+SHA1-Digest: KpD3DNFEPDWPGttPkT/7NVTGlpE=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_36.png
+SHA1-Digest: 5OYpvrOzAAX7tvtaai0d9ffV/rs=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_37.png
+SHA1-Digest: hQZegqR1QX98SPxuFJrdFNrMAEg=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_38.png
+SHA1-Digest: U90mFtCo8ulUfWjYhWq+8qw49iE=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_39.png
+SHA1-Digest: s4gMincWZkayliAstLSNwnogHjo=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_4.png
+SHA1-Digest: h3HED5hNkvP3TP/FKn2X7JoxwLI=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_40.png
+SHA1-Digest: GK7Fx2KZe+dze8rI2OGz5rBSR5g=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_41.png
+SHA1-Digest: ZijL3MpwTPvX+9uV+6gFOyi9yXU=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_42.png
+SHA1-Digest: faWNizM0JAT0ezC4AYN3CRP3mRo=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_43.png
+SHA1-Digest: nUmoBO5B69TZd/fh5muh7txSiTc=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_44.png
+SHA1-Digest: Lrmb89d8Kl98/38P0DOHUkBie6s=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_45.png
+SHA1-Digest: 3jrgrG7ZoxJrykl/NAZK0rsnLqs=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_46.png
+SHA1-Digest: BWx/0EMtucV899d2xYQ0ep75U+c=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_47.png
+SHA1-Digest: lyJLCKxNHLIx1Fo4VS88gO+e5lk=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_48.png
+SHA1-Digest: iIL8N+Je7N1DOEv5O2dd10UrFfc=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_49.png
+SHA1-Digest: K4P5e3VkpdkoZTjf3UGU7XBUO/s=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_5.png
+SHA1-Digest: oQhNTjO8sJIy1rdkBegx4i/3d4s=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_50.png
+SHA1-Digest: K/RE9mPay2n6DXmxBjiedNi8JOo=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_51.png
+SHA1-Digest: tJUf9NhO9mQYGunvQAPknn+xQe8=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_52.png
+SHA1-Digest: EjhyNgzUJ4KEJfPF1bECdsyrbQU=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_53.png
+SHA1-Digest: h44AkEb5DhtjDPFo20Wa8GMw4+A=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_54.png
+SHA1-Digest: bAzHBYGViwMkNcDTUph7qP94TME=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_6.png
+SHA1-Digest: qFDZJeBniXlsSt+OqDvVxVcfwek=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_7.png
+SHA1-Digest: vapGuz+F3TiYJb7K+nUsR+fBTpw=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_8.png
+SHA1-Digest: ney+0lT2/74QPUOCLIdI6Nudyi4=
+
+Name: res/mipmap-ldltr/car_effect_0_driving_9.png
+SHA1-Digest: MENMJKLte+3d0Gb2xzl41AUlFLA=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_1.png
+SHA1-Digest: 2E/syrGLo5Te7GbBUTcazCyPDbs=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_10.png
+SHA1-Digest: u5RFfsIxrvZAXGenaiKPVhbAHz4=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_11.png
+SHA1-Digest: Rog9zOwCkJmkrApXDvFMTc3rRFI=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_12.png
+SHA1-Digest: No3za6r/1jbtzT1eb7O0t5deHLs=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_13.png
+SHA1-Digest: eM/a1m8NDkAABjERKRea2hzb0gs=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_14.png
+SHA1-Digest: 6uJncKp5tm2kbtUqIIepopyfHcQ=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_15.png
+SHA1-Digest: NnValVmDMLL7ONt2rQS3IUOVWcs=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_16.png
+SHA1-Digest: 93HsHIYlqDmAfPb9nb7IVgGclKQ=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_17.png
+SHA1-Digest: FjRVBJKiErwg40mTju7EY8wWfME=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_18.png
+SHA1-Digest: iAzhV/fRkFTs03iy56/0mSijOKg=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_19.png
+SHA1-Digest: flaagt/3OBvkfzoSveP/jPophqg=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_2.png
+SHA1-Digest: CVNGAuhbYnLf/StiH3ReY+74JbM=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_20.png
+SHA1-Digest: l32OhxVRRACTl0SJ6L4c6/hx+78=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_21.png
+SHA1-Digest: lBrABx0D/WXQ4KvEqeukuc+mvSE=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_22.png
+SHA1-Digest: Yo7W938rj4WUlHdAv0jPbno0VSk=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_23.png
+SHA1-Digest: tN0B0Y5If27+SL3K83YoWDNgFus=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_24.png
+SHA1-Digest: peliv5sfZfELUhxSwBsRf9VfNkQ=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_25.png
+SHA1-Digest: Kq8o4rUXWo8nUaxRuXPx5ATvICk=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_26.png
+SHA1-Digest: aevAaf3YJ4K7+yvJ0iWF7pHglLM=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_27.png
+SHA1-Digest: F69kV56QFjNu/oEZrxCgPRgmWpg=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_28.png
+SHA1-Digest: KbzfNbtuaxoKA8+0avEhtmJd0y8=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_29.png
+SHA1-Digest: caVAdKzdhhtQbYT2KvLVKMtn4mU=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_3.png
+SHA1-Digest: pwXrTnxGI1n1UphTPW7hPxbEPzU=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_30.png
+SHA1-Digest: +m14JEP5O7tHONcZLNbgtPG5Tfw=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_31.png
+SHA1-Digest: /R2oH113G/Ps8uoUQiYWxMCu1ik=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_32.png
+SHA1-Digest: Ahr9ImlmrUZmWvIXtOYokMxF6XY=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_33.png
+SHA1-Digest: +YU+Uu4E+BG253DVEbIoNCPg/bI=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_34.png
+SHA1-Digest: wLUA0r9ktASE8dvDG+uv7FeLBzw=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_35.png
+SHA1-Digest: ZIcq2SVUBIWjmq0khViK9e7W0mg=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_36.png
+SHA1-Digest: YlYh82KhgbiCTUoJsdmQvPfUlr8=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_37.png
+SHA1-Digest: ZPn5XoyRafjxAbsivBUleZjCiIg=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_38.png
+SHA1-Digest: cd8Qq2T1FrCyYGaYM1QXwKc4JxQ=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_39.png
+SHA1-Digest: 0Fl9yFQk8jqGSCIJty84UxnKCv8=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_4.png
+SHA1-Digest: bxd1QJMCdeXiiSRd2zAbk5NFvAk=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_40.png
+SHA1-Digest: 5ySdHvCUBut6uf6QM47uUWadRy0=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_41.png
+SHA1-Digest: vVvuRk6jGBySbkaQPlJCsXF+A/E=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_42.png
+SHA1-Digest: kHN5dEbZH8xSrJb+sgRLQc7ZYgU=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_43.png
+SHA1-Digest: gAFGpMUB6Ovd5BGXCCYo9mgmb4w=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_44.png
+SHA1-Digest: 4I310t00os8aqCOzVT4aHCTaRJs=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_45.png
+SHA1-Digest: MYmK3ZJvIWRebQhSKY/7ffhZ92w=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_46.png
+SHA1-Digest: tRiV0kM/xzxIZRQa6fejDyW8TqU=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_47.png
+SHA1-Digest: ZBidym6ykHDRSFlOu2yLJ0OcOMs=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_48.png
+SHA1-Digest: +X6kqmWvZ1JaQtdrtfOv49ea+Sg=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_49.png
+SHA1-Digest: vS48zBcA9wjlRLj90EGpd4ltWsM=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_5.png
+SHA1-Digest: 2Zs/vb+ZG4lQbUWGzNq7sc6g32c=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_50.png
+SHA1-Digest: YkfeGwBsC0ol+C2hBurpbN8oxrU=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_51.png
+SHA1-Digest: v5rZ8bFUiaLw01X1hJ+ViePj0TQ=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_52.png
+SHA1-Digest: LVUnCkxyRZ0nMxhg73vjVTCgkn4=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_53.png
+SHA1-Digest: oRYngdKKHfHW+nSOVyrPDV6Heys=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_54.png
+SHA1-Digest: 9TKdZHu07spx8KNQcSu2010oQUw=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_6.png
+SHA1-Digest: 7TgL0nRf6NgrI4ExL+UKXFCNG/Q=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_7.png
+SHA1-Digest: 1NDe4ZnSRL8N94g3c8nDgVgbkn0=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_8.png
+SHA1-Digest: eg3UxHIBjOKyv5Mw8/NloOIrZm4=
+
+Name: res/mipmap-ldltr/car_effect_1_driving_9.png
+SHA1-Digest: zKPxmXv3ooRo7kQrnPa6TNUF7yE=
+
+Name: res/mipmap-ldltr/car_effect_light_1.png
+SHA1-Digest: exGA/pPxg1IRQ3MAU1lWwfpUcjw=
+
+Name: res/mipmap-ldltr/page_bg_01.png
+SHA1-Digest: OHozXJJ9MPiPFcrjhA7u1FZDj/I=
+
+Name: res/mipmap-ldltr/page_bg_01_1920x720.png
+SHA1-Digest: 6w9KkKe1IZnrmI/siWpllzh5S2I=
+
+Name: res/mipmap-ldrtl-night-v8/car.png
+SHA1-Digest: LSPwRI1kHiVXod+wt0/n3cRdZWc=
+
+Name: res/mipmap-ldrtl-night-v8/car_effect_light_1.png
+SHA1-Digest: 9Nx8Wylpduz3hpgJpXGfaQXIq7o=
+
+Name: res/mipmap-ldrtl-night-v8/page_bg_01.png
+SHA1-Digest: 73wIp3iQ2UnT9SCQyn1KwMi6Tg0=
+
+Name: res/mipmap-ldrtl-night-v8/page_bg_01_1920x720.png
+SHA1-Digest: i0skObSmO5nByAm5aRlvd8MWB04=
+
+Name: res/mipmap-ldrtl/car.png
+SHA1-Digest: gRUfZSYD5Tyi12ZT+gD4+pD4FR0=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_1.png
+SHA1-Digest: bKe4N6UCa9IIHNhAbhxQi2V/+fc=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_10.png
+SHA1-Digest: cmuC1jwwdSZa4P/SR3Mn3WcuKFY=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_11.png
+SHA1-Digest: 8x6xzScpRzjZ/tc8AjmhwakZAKY=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_12.png
+SHA1-Digest: N3qzbYkAKqkrMDcg7lckQz5SJTE=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_13.png
+SHA1-Digest: B7afXCJ1R9Ujn7z7QyDef8GyVFA=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_14.png
+SHA1-Digest: v6t2qAhN3dxUJ3AlevGTxAfdSAE=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_15.png
+SHA1-Digest: pA0xBQ7aANsKbptlwJipRizLY6k=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_16.png
+SHA1-Digest: TmXCZJ8tTUU+eaj34l3k+gK8gAw=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_17.png
+SHA1-Digest: u6OcDP7zhKqrK0m/vb5QUQk8JDY=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_18.png
+SHA1-Digest: MVYpQql5RV/iCE55e4Niz4MSbCg=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_19.png
+SHA1-Digest: N+aFTf5rGBdxdg2OzN7HManmQuo=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_2.png
+SHA1-Digest: Erd2X3fbbVC0/NOXfru+bPFtYPg=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_20.png
+SHA1-Digest: HNIakSSkuChsbgHQq5R3xrzPI88=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_21.png
+SHA1-Digest: fBIiESTHSQc/WUYlCwmsg2gKnJg=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_22.png
+SHA1-Digest: fiPPF8fjemdljlsQ7ujtsFI7G5w=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_23.png
+SHA1-Digest: n0XBKZ5ze5xiEOU4hHa1yWhpcsQ=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_24.png
+SHA1-Digest: ogjciRrntT/5DOAJxo5keRDpfcE=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_25.png
+SHA1-Digest: fvHGqfqfOfuI9EhQQxg/sdjHaIU=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_26.png
+SHA1-Digest: GXwjqq2D3gcoa+kluAhPDCIqjGk=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_27.png
+SHA1-Digest: lFCyIJ/dkRCG7BxoMEvBcpCMA4w=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_28.png
+SHA1-Digest: I4WPmDZUjTfWZMpQ5TmUi3vStPM=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_29.png
+SHA1-Digest: 7U/nQInO3e/JsPprJfyazVqPKqs=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_3.png
+SHA1-Digest: ox7Z7Q6Sq6QyP6fFVn0MrjWH35s=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_30.png
+SHA1-Digest: ULZrfOk8GgtbEsRCDlWaTmRFK9o=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_31.png
+SHA1-Digest: +yBkQPtBkZj9zsItXXZQODAfo/Q=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_32.png
+SHA1-Digest: ny2zw2AVuVz8jTS8IRXGRcpQ2pk=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_33.png
+SHA1-Digest: e++7CC9TrY07lcMC7v77hJNimtc=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_34.png
+SHA1-Digest: hJSVXh3MgkGsN0KaoAb2RR0CToQ=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_35.png
+SHA1-Digest: io6pBpe9ou8l4g0MbbFLZH6RL/0=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_36.png
+SHA1-Digest: H5OL6J7eP+B4oTykRF693Yks4kI=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_37.png
+SHA1-Digest: NtE/2k2/1QFvJs9739yT4VyGbdA=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_38.png
+SHA1-Digest: UOYR7RIfMUluZRxnkm0FFq8+ozc=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_39.png
+SHA1-Digest: cVOmNtVOqaZYQp4JflK1qt46Krc=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_4.png
+SHA1-Digest: QON0DPXReuJknC+fn6lDNrNAtBk=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_40.png
+SHA1-Digest: vPD/B+xHnEt8TZcslke+wyWU6EU=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_41.png
+SHA1-Digest: arlviWs4M8/AgGtMs/2Jr2rU/gk=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_42.png
+SHA1-Digest: JGsnntVDZjGiWezjeTqhYP+P3Rs=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_43.png
+SHA1-Digest: ubN41vLLcpw6+FpjHMRtqj+Xs5Y=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_44.png
+SHA1-Digest: 2gqVOE3NLt1NIl327Fe8Is6HVQM=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_45.png
+SHA1-Digest: Bhrx/luqmiOYyA7EfxjdV36pvaY=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_46.png
+SHA1-Digest: b+wSJao+KvNdJJAHB5kj35fm82E=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_47.png
+SHA1-Digest: OS/rhgYNymQ4aTuGzVie/y/0Gho=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_48.png
+SHA1-Digest: Rkq7SqjYQnhfsOryHmsgODYdSLE=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_49.png
+SHA1-Digest: P8Dl925ceXh06ethbMTgkdVpfe4=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_5.png
+SHA1-Digest: g7MR9bz4V8nu4BZYmlxzLRzNBsU=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_50.png
+SHA1-Digest: 9O3PIApjWWrf2vbMWbEIhsf0iNk=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_51.png
+SHA1-Digest: TBHxRaXXdT54WwKtHgOY8cUm0Rs=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_52.png
+SHA1-Digest: Fz68SL6SKgZNg/Vqs3YUFASGWRg=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_53.png
+SHA1-Digest: j1GCIKYrEqg3xaIFpyv77DPFeGY=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_54.png
+SHA1-Digest: zutJBPyBw+dXImNf3B9zSXLwmGs=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_6.png
+SHA1-Digest: ti8PXEddrbG2vviDRhaxIlQrCTY=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_7.png
+SHA1-Digest: JiNEBDb1m2A++1yBLqLRADFEy0E=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_8.png
+SHA1-Digest: u5qxVXi8Dg+74KOLsfcrxPSuPco=
+
+Name: res/mipmap-ldrtl/car_effect_0_driving_9.png
+SHA1-Digest: FJ+NedemrzQLgISeuzcGozKq0/o=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_1.png
+SHA1-Digest: bztXEFr0PdQijL/ZG0LwRS1pxr0=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_10.png
+SHA1-Digest: 5XCDjvWAONOY2hIMtXXQa37iB80=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_11.png
+SHA1-Digest: 6bc/Lkhqu6ItnxxKkQA4q2DhS0w=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_12.png
+SHA1-Digest: J8hmoa2HNGNs9GoRY3OlAVmSIXI=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_13.png
+SHA1-Digest: p7o74ieqgLMQM9cn50c2kWFP5oM=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_14.png
+SHA1-Digest: ExoG2LieTVGaQQ9rLxbY4jsvyhM=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_15.png
+SHA1-Digest: qYBP+3aUE0k0U/GIVNJieNUT/fk=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_16.png
+SHA1-Digest: ZyAgHHFoscUBhTYa0o12FH2p+7o=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_17.png
+SHA1-Digest: BzSPDJieq413Y3eLEA1gDitTNso=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_18.png
+SHA1-Digest: vxBwerys5eAtrCidaZGzR5D2meE=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_19.png
+SHA1-Digest: GJA3A+CiGqDfqbtQt9z8mIKhq7Q=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_2.png
+SHA1-Digest: 7WqUTZZa8hMnykGnedRJkX6W7R0=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_20.png
+SHA1-Digest: L/MjWs/QDTmd9iZmRxLpIOcARCo=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_21.png
+SHA1-Digest: omuwZJ32TcroIDpfFWyQsU67Weg=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_22.png
+SHA1-Digest: rz5/8uRStWJoNXo+Neuw0DgCuw0=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_23.png
+SHA1-Digest: /qvHXoKVVcveiRie9SQIN30ahTU=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_24.png
+SHA1-Digest: UrPolz39gsswpPIVs9NSPIzuquA=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_25.png
+SHA1-Digest: qi91Npd0MRzJ9iq/nybHCafWHlo=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_26.png
+SHA1-Digest: wnLbnR1JsR/mdTpsGAbt8otH5g8=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_27.png
+SHA1-Digest: WRoBeWyGqJSdysu63SjFQkPxG0o=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_28.png
+SHA1-Digest: d8RHus0DP3sUMgzoENOO4zXalPk=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_29.png
+SHA1-Digest: nSNI+gHUpCoBa4PQEADuiN8UVyc=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_3.png
+SHA1-Digest: LqY1+uPsqN+d53BdwiAQu+EGqYc=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_30.png
+SHA1-Digest: buHFqoH3SCdcFJxkt8WF0FNamJU=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_31.png
+SHA1-Digest: M6/2gBjfTPx37Box8S8jNM4G/a0=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_32.png
+SHA1-Digest: cKPIhKfJvWUY5uok1JHPVe2BN7A=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_33.png
+SHA1-Digest: KCgXfau9Sw0CFB7Q/0lw4wAeuxs=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_34.png
+SHA1-Digest: ww0VkpbwKauQcxCC4h1WrZ/wK9w=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_35.png
+SHA1-Digest: KUUBCVd6yHjkqIv4KR9G0jHsL/U=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_36.png
+SHA1-Digest: 0gc8/MK650nvlYeKmnJjGFmf9sw=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_37.png
+SHA1-Digest: bUydhPRhSabSbAbdKHJlyExO40Q=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_38.png
+SHA1-Digest: fu6sTBIRAGmarylgoM/wr/hgz3o=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_39.png
+SHA1-Digest: C+5SDy+Btt4k06lKiWbSOWZWN9g=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_4.png
+SHA1-Digest: gxQvG9BkuXKp94WDl6VtiL6kW8c=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_40.png
+SHA1-Digest: GR9oIujhy6ejTLW6TGcXGuNBwS4=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_41.png
+SHA1-Digest: blfQi6cHF2cmb0bpktz2GMjhnI0=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_42.png
+SHA1-Digest: iiQn+eUWKlVozUndhgRuotiarBg=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_43.png
+SHA1-Digest: k5A9Jp8RZbL45ZEg2M9xQG0tlwI=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_44.png
+SHA1-Digest: R3MEvRTfV86DAVZcF/KadRKKJno=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_45.png
+SHA1-Digest: ziHFsqGk/ifTPA29c2tPEz59geM=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_46.png
+SHA1-Digest: +199wiUhbzMHG3+MJLz7ayxlRF0=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_47.png
+SHA1-Digest: RkFYeWr9if9DTqBXxguTZ7e8Z20=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_48.png
+SHA1-Digest: I+Ze01bAU2ZixuIMVqB0cFUEHvM=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_49.png
+SHA1-Digest: QxkKpL85P0nnYniaHz81YQEjkK8=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_5.png
+SHA1-Digest: aC0QoXvC/vaw3sPFhHlEmi+Qjt8=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_50.png
+SHA1-Digest: iEVpJEURRBCU6eiVvLiXjo74r6c=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_51.png
+SHA1-Digest: kwiN0RhtxW4P1QZXwpKkSiaoCpE=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_52.png
+SHA1-Digest: egLpx+VwBlUVEqAxkTZk2Vd4BW8=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_53.png
+SHA1-Digest: +OwpOt+mB7tfOYR8k4G7RQp8PSg=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_54.png
+SHA1-Digest: o54yJ7RK1iLyRh8s4YoMsKLk3hw=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_6.png
+SHA1-Digest: VtaaBsP+KDoaleNWPAzzdJLc7ZE=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_7.png
+SHA1-Digest: 2ZdmWN8uis8xhIBe0zAY0Pqt+Z8=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_8.png
+SHA1-Digest: z5piR3qdNtWm+J0eYzxo8aPbuhc=
+
+Name: res/mipmap-ldrtl/car_effect_1_driving_9.png
+SHA1-Digest: K//nCxp06qa8jJRZ8k74CCzdcn8=
+
+Name: res/mipmap-ldrtl/car_effect_light_1.png
+SHA1-Digest: qhmti4Xxih238FXw20CXvu+h/cw=
+
+Name: res/mipmap-ldrtl/page_bg_01.png
+SHA1-Digest: t8xBs3ddixF2EQmf9Vu5lPN1LH4=
+
+Name: res/mipmap-ldrtl/page_bg_01_1920x720.png
+SHA1-Digest: tFkLEsABKwRYsTYqEK0ALDiBKMI=
+
+Name: res/mipmap-mdpi-v4/app_360safety.png
+SHA1-Digest: gnMPBy1vjo8jy9r9kSHVWDVv7uM=
+
+Name: res/mipmap-mdpi-v4/app_acgj.png
+SHA1-Digest: vkziSoRdZPOyw/FN+vWLY2q5ljw=
+
+Name: res/mipmap-mdpi-v4/app_aios.png
+SHA1-Digest: 2lwfx29VdVHZeQpGuVgZZBY1ys4=
+
+Name: res/mipmap-mdpi-v4/app_aircon.png
+SHA1-Digest: bjueBop15c0+egIfUs8mVn/nw7o=
+
+Name: res/mipmap-mdpi-v4/app_airecorder.png
+SHA1-Digest: BKCS3c+WPPpQoYuHAS8rm5RSSJ8=
+
+Name: res/mipmap-mdpi-v4/app_alibaoka.png
+SHA1-Digest: JWGaqTih6Qa3/4mYg0Zfu1YT+wc=
+
+Name: res/mipmap-mdpi-v4/app_apk.png
+SHA1-Digest: +MlrbOQo0LuJ3KI6qvH6boBx5As=
+
+Name: res/mipmap-mdpi-v4/app_apkstore.png
+SHA1-Digest: mWmK3pyVlxArOGaGfWE5hYI12b4=
+
+Name: res/mipmap-mdpi-v4/app_applemusic.png
+SHA1-Digest: LM0MPwy5k0qrga9o7ihaKztS1Kw=
+
+Name: res/mipmap-mdpi-v4/app_apps.png
+SHA1-Digest: MxPQwlKvPFf1kgW8FvvGcmIUL4g=
+
+Name: res/mipmap-mdpi-v4/app_aqy_video.png
+SHA1-Digest: Nb2O/hXC0e0KuBgFHZ3MfHrPy2w=
+
+Name: res/mipmap-mdpi-v4/app_assistant.png
+SHA1-Digest: MWNGn90TSMgT1AmD9yDNVWVGlJo=
+
+Name: res/mipmap-mdpi-v4/app_autohome.png
+SHA1-Digest: W9EXoPKH7Ht9fRoIDozkj7GM1Fo=
+
+Name: res/mipmap-mdpi-v4/app_autoinformation.png
+SHA1-Digest: Xu8wtTPnBKTaLJd6y5m6Jo1OdOA=
+
+Name: res/mipmap-mdpi-v4/app_autoset.png
+SHA1-Digest: BoBX8jFvH79PUyXnJS2lzQ66lOk=
+
+Name: res/mipmap-mdpi-v4/app_aux.png
+SHA1-Digest: Qaz9BksjrTUkXPy8EtK2zkKxyxs=
+
+Name: res/mipmap-mdpi-v4/app_bdmap.png
+SHA1-Digest: DTufWgmALddSPGrJTwRFLTmLlJo=
+
+Name: res/mipmap-mdpi-v4/app_bootanimation.png
+SHA1-Digest: 69fw3i5BGCp7qlXNWs00NrqJcL4=
+
+Name: res/mipmap-mdpi-v4/app_browser.png
+SHA1-Digest: svp+WbW/n0btSEMTQ1wgFIF02Oo=
+
+Name: res/mipmap-mdpi-v4/app_bt.png
+SHA1-Digest: v3cA5qlapiugZCYXBOgJo9caWmE=
+
+Name: res/mipmap-mdpi-v4/app_calculator.png
+SHA1-Digest: A7qfAKn1MjSkjuAn+TvEpRojnwk=
+
+Name: res/mipmap-mdpi-v4/app_calendar.png
+SHA1-Digest: a+DqZ0qR90Piyrtj5XX+kw7Yj7M=
+
+Name: res/mipmap-mdpi-v4/app_call.png
+SHA1-Digest: Q2SvuLF7HpvDYLRy1Md+d/3GqZ8=
+
+Name: res/mipmap-mdpi-v4/app_calllog.png
+SHA1-Digest: ATbDGbI1Q6ZUbqhbi9/Y0DS7zLg=
+
+Name: res/mipmap-mdpi-v4/app_carmate.png
+SHA1-Digest: 4sNxwEuQl15/1U2/Tox3m9X7N0A=
+
+Name: res/mipmap-mdpi-v4/app_carsetting.png
+SHA1-Digest: rDbRjBkEDK3PYD3hwaMLldEMqC4=
+
+Name: res/mipmap-mdpi-v4/app_color.png
+SHA1-Digest: +x8FgEufv1vo36Nipucnr7HvHq4=
+
+Name: res/mipmap-mdpi-v4/app_contacts.png
+SHA1-Digest: J27iWgYE8yxfVmcN9NqCtP7Y7f8=
+
+Name: res/mipmap-mdpi-v4/app_cyb.png
+SHA1-Digest: kN+sW+t98xdE4uMWqNvLX4BpbHc=
+
+Name: res/mipmap-mdpi-v4/app_czfw.png
+SHA1-Digest: dtLkXSexnY9njWY5x/f/OKmY2Yk=
+
+Name: res/mipmap-mdpi-v4/app_dap.png
+SHA1-Digest: 3Am3FjNk/grBwE/faFAc+jgmT2c=
+
+Name: res/mipmap-mdpi-v4/app_default_img_bg.png
+SHA1-Digest: ok+T2ghEiU65Aa7lcs0KG5WWujk=
+
+Name: res/mipmap-mdpi-v4/app_dofunapp.png
+SHA1-Digest: NJweIKSUMXIjj9DuypviBI8e+OA=
+
+Name: res/mipmap-mdpi-v4/app_dofuncarhelp.png
+SHA1-Digest: hHaOYPNw85XQPXAYEDiJOonk1Fw=
+
+Name: res/mipmap-mdpi-v4/app_dofunvoice.png
+SHA1-Digest: rAo6IiRNe/va3OZWPUabfTLYfoM=
+
+Name: res/mipmap-mdpi-v4/app_download.png
+SHA1-Digest: 5LHHAXJOwMb49DSkgYPbrCL7yhE=
+
+Name: res/mipmap-mdpi-v4/app_dualdvr.png
+SHA1-Digest: g6MYENL3wwT+yLckbMSzOpk//Oc=
+
+Name: res/mipmap-mdpi-v4/app_duobeiappstore.png
+SHA1-Digest: a+26XBvFcXPZUYnSy1oiHjepnfU=
+
+Name: res/mipmap-mdpi-v4/app_dvd.png
+SHA1-Digest: QqhvM2c4n0O5Mo0Wl54CoOedSLI=
+
+Name: res/mipmap-mdpi-v4/app_dvr.png
+SHA1-Digest: e47ZUXh4oBcIP+LLVjVhH/Slppo=
+
+Name: res/mipmap-mdpi-v4/app_dvrother.png
+SHA1-Digest: m/0QfTQDl79G+L52j/7jnmakvJA=
+
+Name: res/mipmap-mdpi-v4/app_email.png
+SHA1-Digest: CD9Ade6OzuF1LfRnLFG3qPalfTU=
+
+Name: res/mipmap-mdpi-v4/app_equalizer.png
+SHA1-Digest: y713GNUnfI3ZDxrQ/9A/EauCmKU=
+
+Name: res/mipmap-mdpi-v4/app_estrongs.png
+SHA1-Digest: 6opLFEA2Yr9A+tACqd31dzvC0Vo=
+
+Name: res/mipmap-mdpi-v4/app_facebook.png
+SHA1-Digest: /CNycVbCgxcEBQB4e9Ove3byOVs=
+
+Name: res/mipmap-mdpi-v4/app_frontview.png
+SHA1-Digest: iMPsmoOojDwC9kL6jJU/AFP6ujM=
+
+Name: res/mipmap-mdpi-v4/app_gallery.png
+SHA1-Digest: uEQPYQe95B6aV/Fl7iyNmd93wpo=
+
+Name: res/mipmap-mdpi-v4/app_gdmap.png
+SHA1-Digest: +6kQ0NDiVnMI/mzEURd3Zu3wYqU=
+
+Name: res/mipmap-mdpi-v4/app_ggbrowser.png
+SHA1-Digest: BWA4XZezwd0DMySc/jb/s5ilnLk=
+
+Name: res/mipmap-mdpi-v4/app_ggmaps.png
+SHA1-Digest: M5n1m2mC/rXyo2r9W2uQt5+6jio=
+
+Name: res/mipmap-mdpi-v4/app_ggmarket.png
+SHA1-Digest: GuYrwX2IU2lZa9gz6J0je2Zuwxg=
+
+Name: res/mipmap-mdpi-v4/app_google.png
+SHA1-Digest: ZKyEG0HEKR/XrJjnY38iiaAKoCo=
+
+Name: res/mipmap-mdpi-v4/app_googleassistant.png
+SHA1-Digest: 9GKBZwi/GqYNJKeMT8ZX15VrOpc=
+
+Name: res/mipmap-mdpi-v4/app_googlemap.png
+SHA1-Digest: vQHB94pk8t/rIRz8UHmmbM9rxUw=
+
+Name: res/mipmap-mdpi-v4/app_googlevoice.png
+SHA1-Digest: Uj8DPTKe6oCS/sJGCPGGYaryPiE=
+
+Name: res/mipmap-mdpi-v4/app_gpstest.png
+SHA1-Digest: z59XO53qIHpzzKU0tQunK30edC0=
+
+Name: res/mipmap-mdpi-v4/app_hicar.png
+SHA1-Digest: 7ktNlkr4LTltMzarnJKW5dqwtqM=
+
+Name: res/mipmap-mdpi-v4/app_ifly.png
+SHA1-Digest: rKcnernNb49gaU7peLiU3xId/OY=
+
+Name: res/mipmap-mdpi-v4/app_igo.png
+SHA1-Digest: XZjkdz8sm2lal/gdIpURRceLDjg=
+
+Name: res/mipmap-mdpi-v4/app_kaola.png
+SHA1-Digest: I2aD9UILqMX9hlnA2tipKJEHgdI=
+
+Name: res/mipmap-mdpi-v4/app_keypad.png
+SHA1-Digest: uZ8+0CmufbsJYv9cl7evIq+Mhqs=
+
+Name: res/mipmap-mdpi-v4/app_kplay.png
+SHA1-Digest: ow3VZ3kpv7BREI/WIhE/f5qGuSU=
+
+Name: res/mipmap-mdpi-v4/app_ktv.png
+SHA1-Digest: 1kf740Px3c5N6y+6HwiwgjeDy/s=
+
+Name: res/mipmap-mdpi-v4/app_kugou.png
+SHA1-Digest: Mveza23bigYOj5MglD18yI6Cv3Y=
+
+Name: res/mipmap-mdpi-v4/app_kuwo.png
+SHA1-Digest: E28M3Eru4qaRGS8bLdSylvJcT1s=
+
+Name: res/mipmap-mdpi-v4/app_launcher.png
+SHA1-Digest: meGfCi61o9lTvdMnIBkRM/QNpPI=
+
+Name: res/mipmap-mdpi-v4/app_lizhi.png
+SHA1-Digest: lkH6N1C3AqRsQ/Bz8zr3yeeCh9E=
+
+Name: res/mipmap-mdpi-v4/app_loftcalendar.png
+SHA1-Digest: fEgvLCkQrL+FSErQDwqWCdHyngI=
+
+Name: res/mipmap-mdpi-v4/app_look.png
+SHA1-Digest: /xgzwk8p6koaFwEoTJ/oZ5RrqVA=
+
+Name: res/mipmap-mdpi-v4/app_map.png
+SHA1-Digest: UVQ14NUi4kV5+NZ8JeUgaDGPWoM=
+
+Name: res/mipmap-mdpi-v4/app_market.png
+SHA1-Digest: tnruSm2pN2J6OAwr6bpYS+YlOF4=
+
+Name: res/mipmap-mdpi-v4/app_mspecification.png
+SHA1-Digest: qoPSaCZgblgX9oxHuFtrfzwiRVM=
+
+Name: res/mipmap-mdpi-v4/app_music.png
+SHA1-Digest: PTsiMGvc2BHExMJra1eObEf00T8=
+
+Name: res/mipmap-mdpi-v4/app_neteasecloudmusic.png
+SHA1-Digest: aqv0h/8GHLcNCdbrUiDB3zfoJhY=
+
+Name: res/mipmap-mdpi-v4/app_netflix.png
+SHA1-Digest: o3r3M5dMu7FvXm6u7ojSXUt9aiE=
+
+Name: res/mipmap-mdpi-v4/app_newtv.png
+SHA1-Digest: 5yEvpCq+WhO4JHUlZ8bLLgXeGW4=
+
+Name: res/mipmap-mdpi-v4/app_obd.png
+SHA1-Digest: z9JsTDe6NBzWf5D2uwuZxDK3VFQ=
+
+Name: res/mipmap-mdpi-v4/app_oilconsumption.png
+SHA1-Digest: N2u3UdnNLT2+oZpyiAH7bpURFpM=
+
+Name: res/mipmap-mdpi-v4/app_phonelink.png
+SHA1-Digest: hxBDNEdWoBath7yiswflHhbRAeI=
+
+Name: res/mipmap-mdpi-v4/app_qq.png
+SHA1-Digest: Jd4RrNXAlq7vnX3okDZCPNqUzQw=
+
+Name: res/mipmap-mdpi-v4/app_qqmusic.png
+SHA1-Digest: GgMu0nBOfNpkNhgTedGdxt8aZsw=
+
+Name: res/mipmap-mdpi-v4/app_qs.png
+SHA1-Digest: JkHardQjEmfjw9pGjmsBTk2lDYU=
+
+Name: res/mipmap-mdpi-v4/app_radio.png
+SHA1-Digest: 85MmSWgUGL3WH5vFIUtVcGYS6eg=
+
+Name: res/mipmap-mdpi-v4/app_recorder.png
+SHA1-Digest: KwxL7Wbzh/AtpARl3Kt4mgW1Q1w=
+
+Name: res/mipmap-mdpi-v4/app_roadshop.png
+SHA1-Digest: 6E5oJTvOVFZJsvShQlzZPwjtPLE=
+
+Name: res/mipmap-mdpi-v4/app_set.png
+SHA1-Digest: 1r5wr14qlLgnzpbz8NAaOlLZPyE=
+
+Name: res/mipmap-mdpi-v4/app_sms.png
+SHA1-Digest: PHBCveKnVoNEjujKMUVaWEaAYi4=
+
+Name: res/mipmap-mdpi-v4/app_sogou_input.png
+SHA1-Digest: GQ6uqMoo2U2O6aJi4Vh1/stLVrs=
+
+Name: res/mipmap-mdpi-v4/app_soundrecorder.png
+SHA1-Digest: JVCmwZECIy8Y+ro6PE+nQAPVTjI=
+
+Name: res/mipmap-mdpi-v4/app_spotify.png
+SHA1-Digest: VIeM2iSpLwD41+bBY7ffzi3mRsI=
+
+Name: res/mipmap-mdpi-v4/app_strongs.png
+SHA1-Digest: 4FnK2IytP3CIXioUFb1x187pvG0=
+
+Name: res/mipmap-mdpi-v4/app_sweet.png
+SHA1-Digest: s57BIVPX1zDEdTuraJUw0qwGQTE=
+
+Name: res/mipmap-mdpi-v4/app_tenxun_map.png
+SHA1-Digest: eqLNn7Z8QUechZLY+rvqhvekzfM=
+
+Name: res/mipmap-mdpi-v4/app_theme.png
+SHA1-Digest: T1CVic7bBbomXE1zvTumF8Pcoks=
+
+Name: res/mipmap-mdpi-v4/app_theme_domestic.png
+SHA1-Digest: XRazVZPydRYw1l+ssUP9xrjxhcA=
+
+Name: res/mipmap-mdpi-v4/app_theme_overseas.png
+SHA1-Digest: p5M7goMp1N2ZqlR2WoppuG18gxk=
+
+Name: res/mipmap-mdpi-v4/app_tingshucar.png
+SHA1-Digest: TDa9HhVS+e6dr10ISTheRMWB3tk=
+
+Name: res/mipmap-mdpi-v4/app_tire_pressure.png
+SHA1-Digest: +xBsOSC6EsiAeVDOpJrrBPOeqBI=
+
+Name: res/mipmap-mdpi-v4/app_truck360.png
+SHA1-Digest: ow4iIRNX163po2bvZmP4QCUmNNY=
+
+Name: res/mipmap-mdpi-v4/app_tv.png
+SHA1-Digest: NHTpyMwFsh1HXLW9EH5+pWCpA6o=
+
+Name: res/mipmap-mdpi-v4/app_tv_home.png
+SHA1-Digest: JaaKfbXGbLdvY/ssHnIP/2mo2N0=
+
+Name: res/mipmap-mdpi-v4/app_variety_launcher.png
+SHA1-Digest: OipCQVwzK/TJ4VKsFWkHFAzDbdc=
+
+Name: res/mipmap-mdpi-v4/app_video.png
+SHA1-Digest: zJwllDGJauMMwDiBl1YfKCYW9mk=
+
+Name: res/mipmap-mdpi-v4/app_voice.png
+SHA1-Digest: rvI3oJuTo3dLBNKO1x5B7LiPjwQ=
+
+Name: res/mipmap-mdpi-v4/app_waze.png
+SHA1-Digest: DdbsAyXHnyE+BQF5KfOScQBBmUE=
+
+Name: res/mipmap-mdpi-v4/app_weather.png
+SHA1-Digest: GkqLZpyQUcl24wgvyQg3oR+1jko=
+
+Name: res/mipmap-mdpi-v4/app_wechat.png
+SHA1-Digest: FS8OuaddJrx4v//sUwc42cl16ug=
+
+Name: res/mipmap-mdpi-v4/app_ximalaya_ting_car.png
+SHA1-Digest: gcnCzLnt8HG4jL97q85ZeRNYZTM=
+
+Name: res/mipmap-mdpi-v4/app_yilian.png
+SHA1-Digest: fccXyMhC1vLOkKCtbXI9RVmyRH4=
+
+Name: res/mipmap-mdpi-v4/app_youku.png
+SHA1-Digest: ASfC407dNvNHJFv1HX3GkBzO67w=
+
+Name: res/mipmap-mdpi-v4/app_youtube.png
+SHA1-Digest: aF8e0Sxa2RdM31NnO39GBpMwnVI=
+
+Name: res/mipmap-mdpi-v4/app_youtubemusic.png
+SHA1-Digest: hoeFEFooPU490k/cbEjHRPh5X40=
+
+Name: res/mipmap-mdpi-v4/app_zlink.png
+SHA1-Digest: 55mtmdOy7N+9ayvN9o5sCoJw004=
+
+Name: res/mipmap-mdpi-v4/dimming.png
+SHA1-Digest: 8EVM6a4pfNIBsGiPO7E47x+sTsA=
+
+Name: res/mipmap-mdpi-v4/icon_local_theme_details_public_01.png
+SHA1-Digest: A8y9cYuD9mtJn8OL4c4jUT1wALY=
+
+Name: res/mipmap-mdpi-v4/icon_local_theme_details_public_02.png
+SHA1-Digest: V0sF6sMLHuWx/IK+rCcYgs9lfAU=
+
+Name: res/mipmap-mdpi-v4/limit_speed.png
+SHA1-Digest: 6IZXRxFZ/9TYi3hSLCVKmWWDsmk=
+
+Name: res/mipmap-mdpi-v4/link_icon_360.png
+SHA1-Digest: vJl8o8FYtXPOCPl3KDyAkptnXNU=
+
+Name: res/mipmap-mdpi-v4/link_icon_acgj.png
+SHA1-Digest: bIAjewx1Vy4YLmXJfrWsUoCgv6k=
+
+Name: res/mipmap-mdpi-v4/link_icon_aiqiyi.png
+SHA1-Digest: jp7CwaR8OCaNoJ6wFbgrwUwbgMU=
+
+Name: res/mipmap-mdpi-v4/link_icon_allview.png
+SHA1-Digest: uJB81AJGa5pGhb+9PEefc4tXF+g=
+
+Name: res/mipmap-mdpi-v4/link_icon_apk_installer.png
+SHA1-Digest: ZwpdyXDtgTT85l/cmAl2m9X7x1s=
+
+Name: res/mipmap-mdpi-v4/link_icon_app_default.png
+SHA1-Digest: t1q1ujm9WK9lsvT3Q7FfHIigspg=
+
+Name: res/mipmap-mdpi-v4/link_icon_applemusic.png
+SHA1-Digest: XF8aG51dNcNutZFK1hh82xTebRU=
+
+Name: res/mipmap-mdpi-v4/link_icon_apps.png
+SHA1-Digest: 8n9wX9m+Pz+OjjrAbWyFhR/UgU0=
+
+Name: res/mipmap-mdpi-v4/link_icon_assistant.png
+SHA1-Digest: QtBjG21wkaOk/ONEXBZ9OJ/6Fy0=
+
+Name: res/mipmap-mdpi-v4/link_icon_autoset.png
+SHA1-Digest: ENczPrL9SJhgtMo7mLElt+QAMNQ=
+
+Name: res/mipmap-mdpi-v4/link_icon_aux.png
+SHA1-Digest: f3d+mebJtqzEPvbwZxzVXpAL3Wk=
+
+Name: res/mipmap-mdpi-v4/link_icon_beidou.png
+SHA1-Digest: CsIzrIigpWDv+lU0IwzATUHObZ0=
+
+Name: res/mipmap-mdpi-v4/link_icon_bilibili.png
+SHA1-Digest: YFFJTH6UhaW0HU2FIonuOJX6Hd0=
+
+Name: res/mipmap-mdpi-v4/link_icon_bootanimation.png
+SHA1-Digest: KyG7yZzawacMr5aLHl+od7k5iFI=
+
+Name: res/mipmap-mdpi-v4/link_icon_bt.png
+SHA1-Digest: 2n+VNjh3mlztWfWzv0/mJEO9Dp8=
+
+Name: res/mipmap-mdpi-v4/link_icon_btmusic.png
+SHA1-Digest: YOaqzGypkifWb70+CDQGvMl9bPE=
+
+Name: res/mipmap-mdpi-v4/link_icon_calculator.png
+SHA1-Digest: nQLcD82Ef8dQNN962bSJXWDOOJI=
+
+Name: res/mipmap-mdpi-v4/link_icon_calendar.png
+SHA1-Digest: hLXLq0aLdIQryi6lHHyCJRwitbI=
+
+Name: res/mipmap-mdpi-v4/link_icon_call.png
+SHA1-Digest: 7xEM4jIfWbEHD/C93Gq0hq0wQWU=
+
+Name: res/mipmap-mdpi-v4/link_icon_camera.png
+SHA1-Digest: xlbfJMxAgJ5793eMYexDn1HIHVc=
+
+Name: res/mipmap-mdpi-v4/link_icon_carlife.png
+SHA1-Digest: okUkXh+9vEHcMu5fsD5SGjxOO8U=
+
+Name: res/mipmap-mdpi-v4/link_icon_carmate.png
+SHA1-Digest: /vi2v1LYXJMN9GjFP4Ahitb8FbA=
+
+Name: res/mipmap-mdpi-v4/link_icon_carmedia.png
+SHA1-Digest: ixbkjsKSq0M9fC2uKhbCxJoS1tE=
+
+Name: res/mipmap-mdpi-v4/link_icon_compass.png
+SHA1-Digest: AANPIhrxS+GyTci7WfjsnMR2Pxo=
+
+Name: res/mipmap-mdpi-v4/link_icon_czfw.png
+SHA1-Digest: dcsIDMB+WwLgUhT3KrD/TJfmsFo=
+
+Name: res/mipmap-mdpi-v4/link_icon_dap.png
+SHA1-Digest: lAOMvXhfrH8ptNG/Liqzk0eycIk=
+
+Name: res/mipmap-mdpi-v4/link_icon_day.png
+SHA1-Digest: OCjRck9Gjz5s5J1ulHNnbBFeVJc=
+
+Name: res/mipmap-mdpi-v4/link_icon_dfv.png
+SHA1-Digest: hK4m8GHddNp43KziuQpm7GBfM90=
+
+Name: res/mipmap-mdpi-v4/link_icon_dingwei.png
+SHA1-Digest: 8MUdnAS33x+zMtW2nVS2ZYnzSJ4=
+
+Name: res/mipmap-mdpi-v4/link_icon_dis.png
+SHA1-Digest: LjzbO1dGyWqKW0PS+5KTqMQdtJ4=
+
+Name: res/mipmap-mdpi-v4/link_icon_dofun_voice.png
+SHA1-Digest: Hxv6vgZdjUPs/17gmVGxFWsQ1Uw=
+
+Name: res/mipmap-mdpi-v4/link_icon_dofunapp.png
+SHA1-Digest: RnA6zcGG7mxrrYYAVwPl6hUx0AM=
+
+Name: res/mipmap-mdpi-v4/link_icon_dofunappsmarket.png
+SHA1-Digest: 55pwB+rBrdIKs7VzQAqdgcRooQ4=
+
+Name: res/mipmap-mdpi-v4/link_icon_down.png
+SHA1-Digest: npgsz6xyGX8XPEf1QuNgwnUBd8Y=
+
+Name: res/mipmap-mdpi-v4/link_icon_dualdvr.png
+SHA1-Digest: A0FtY6TUkpXPR47yZcEr4ZXPTRc=
+
+Name: res/mipmap-mdpi-v4/link_icon_dvd.png
+SHA1-Digest: 6pPrjXFMEYqmuUfdhOKA+SG8fUA=
+
+Name: res/mipmap-mdpi-v4/link_icon_dvr.png
+SHA1-Digest: jr4hS9Lw65nTWk430Z17NES4vdU=
+
+Name: res/mipmap-mdpi-v4/link_icon_ecar_online.png
+SHA1-Digest: Xo4Qiu4KJbVdERF8dEbopMpe/fk=
+
+Name: res/mipmap-mdpi-v4/link_icon_ecar_renew.png
+SHA1-Digest: ws8XTKsx7nbGjd1beDBTVOUqGB0=
+
+Name: res/mipmap-mdpi-v4/link_icon_eq.png
+SHA1-Digest: seWZFebxlA7FzKcm4m2unfKuseU=
+
+Name: res/mipmap-mdpi-v4/link_icon_es.png
+SHA1-Digest: trZWI/+QaVztAQE8r5lZ5WIBbi4=
+
+Name: res/mipmap-mdpi-v4/link_icon_etc.png
+SHA1-Digest: RAF3aCM3jdMDjyqElsv2NI6zUj0=
+
+Name: res/mipmap-mdpi-v4/link_icon_explorer.png
+SHA1-Digest: BuYwQi77lR/yopv9FHzHDsUUdUs=
+
+Name: res/mipmap-mdpi-v4/link_icon_facebook.png
+SHA1-Digest: 8wZ1X5uRuOMgoG8HRmdn3aCFUoQ=
+
+Name: res/mipmap-mdpi-v4/link_icon_file.png
+SHA1-Digest: eUDZHOQ04b8MTdCaaAS9BfK5lsE=
+
+Name: res/mipmap-mdpi-v4/link_icon_frontview.png
+SHA1-Digest: +bQMiwojGAfZ+hPYDhkR59OXKOs=
+
+Name: res/mipmap-mdpi-v4/link_icon_ggmaps.png
+SHA1-Digest: FlzNAk0mDsM5VMpHoicwb2TGCIY=
+
+Name: res/mipmap-mdpi-v4/link_icon_google.png
+SHA1-Digest: WveAiwQ6jQZB1Fc+rS9/rhe/ugY=
+
+Name: res/mipmap-mdpi-v4/link_icon_googleexplorer.png
+SHA1-Digest: HxyN84slDU3IfM0wVUBMh2Ko8Ms=
+
+Name: res/mipmap-mdpi-v4/link_icon_googleplay.png
+SHA1-Digest: WzH+4bQ1xaE7iN2fqjVktzkbexI=
+
+Name: res/mipmap-mdpi-v4/link_icon_gpstest.png
+SHA1-Digest: AM7n7r8RsIrstAtOD94RDJea2ig=
+
+Name: res/mipmap-mdpi-v4/link_icon_hicar.png
+SHA1-Digest: VGwnD9FEosY1i1Ylyn/VatCUApw=
+
+Name: res/mipmap-mdpi-v4/link_icon_ifly.png
+SHA1-Digest: 55ULIq75JlDjgEYI8h/JSId20ms=
+
+Name: res/mipmap-mdpi-v4/link_icon_igo.png
+SHA1-Digest: jrO4GIfKVA1ep14t+hhWC7Ki+W4=
+
+Name: res/mipmap-mdpi-v4/link_icon_instructions.png
+SHA1-Digest: rzaIkfvvk8HJrh9moEBw5RvPQPU=
+
+Name: res/mipmap-mdpi-v4/link_icon_jiluyi.png
+SHA1-Digest: gIz7WsBfbku4yu8zqE4UlmcqxCk=
+
+Name: res/mipmap-mdpi-v4/link_icon_jiuyuan.png
+SHA1-Digest: CDTtG0+v0dLN5LxKqXcHcNV2S2s=
+
+Name: res/mipmap-mdpi-v4/link_icon_kaola.png
+SHA1-Digest: jaGL0+BZaiOV0SXDEF0lauTE1GU=
+
+Name: res/mipmap-mdpi-v4/link_icon_kongtiao.png
+SHA1-Digest: 7ZZ5DBZDP1g5IgYL5iV2w/hvKA8=
+
+Name: res/mipmap-mdpi-v4/link_icon_kplay.png
+SHA1-Digest: K07C3FhwzsCnnWGzklJZxN8uPgI=
+
+Name: res/mipmap-mdpi-v4/link_icon_ktv.png
+SHA1-Digest: 54s57WE/04wu/+iL/heJJMh8BCw=
+
+Name: res/mipmap-mdpi-v4/link_icon_kugou.png
+SHA1-Digest: fGWohJmc1HMzih+OJPfU1om2jjQ=
+
+Name: res/mipmap-mdpi-v4/link_icon_kw.png
+SHA1-Digest: 0Xlulso7YCPWG2g4TK4yCDQViT8=
+
+Name: res/mipmap-mdpi-v4/link_icon_leftview.png
+SHA1-Digest: ta4s5Pkhx+uLs6kmO9zFJfWWVyw=
+
+Name: res/mipmap-mdpi-v4/link_icon_lizhi.png
+SHA1-Digest: 1+PLsP7NkZKzRjTSwhpxSI+hRsU=
+
+Name: res/mipmap-mdpi-v4/link_icon_look.png
+SHA1-Digest: 0AuvM99bqkT4hhCKoAbk5TeT5k8=
+
+Name: res/mipmap-mdpi-v4/link_icon_map.png
+SHA1-Digest: eC5tR/j7u45wsn9e/MOtBZCrQQ0=
+
+Name: res/mipmap-mdpi-v4/link_icon_miudrive.png
+SHA1-Digest: ylgQhZptcsk5NctK6KLETH6g9UI=
+
+Name: res/mipmap-mdpi-v4/link_icon_movie.png
+SHA1-Digest: +cLIVSJoN4bgqm9FgmiJ47k3f0s=
+
+Name: res/mipmap-mdpi-v4/link_icon_music.png
+SHA1-Digest: 499t/TFG8OF6NMWagzjg3cSUDVQ=
+
+Name: res/mipmap-mdpi-v4/link_icon_narrowview.png
+SHA1-Digest: aekc2NHFiVSdysP3iKKvBVYb/DI=
+
+Name: res/mipmap-mdpi-v4/link_icon_navigation.png
+SHA1-Digest: 0APjPMIguyO7veomh6dSG8tNAcY=
+
+Name: res/mipmap-mdpi-v4/link_icon_neteasecloudmusic.png
+SHA1-Digest: FF2PmwNyQlrAmNjHL3zEwjilqlA=
+
+Name: res/mipmap-mdpi-v4/link_icon_netflix.png
+SHA1-Digest: O3q3Ya36UV8eQREMpuGtGRfRKSM=
+
+Name: res/mipmap-mdpi-v4/link_icon_news.png
+SHA1-Digest: CiwydlNtMXWanjb9s6izaXWAF2E=
+
+Name: res/mipmap-mdpi-v4/link_icon_newtv.png
+SHA1-Digest: XHUrEoGerl7CaXkFJLtqYSUQWvI=
+
+Name: res/mipmap-mdpi-v4/link_icon_night.png
+SHA1-Digest: zzBTPc7Oenh7riTWWO11hP9cXcw=
+
+Name: res/mipmap-mdpi-v4/link_icon_obd.png
+SHA1-Digest: IKl19SoTUlk8g1KZRVu9zcV2WsI=
+
+Name: res/mipmap-mdpi-v4/link_icon_onlinefm.png
+SHA1-Digest: urijg1Eakfn9/fAFfTSuC7+twdc=
+
+Name: res/mipmap-mdpi-v4/link_icon_onlinemusic.png
+SHA1-Digest: cMF8ZA7RSsS7Q//idzWHAEfnc/g=
+
+Name: res/mipmap-mdpi-v4/link_icon_original_car.png
+SHA1-Digest: 5E2GK22n0zO1bXlUnmIumHgTlzo=
+
+Name: res/mipmap-mdpi-v4/link_icon_phonelink.png
+SHA1-Digest: E1DGu44c5Ljq0AyVgMAkzX2K7qI=
+
+Name: res/mipmap-mdpi-v4/link_icon_play.png
+SHA1-Digest: jnKT5Zym2A6oITC8KsMTdFuhbug=
+
+Name: res/mipmap-mdpi-v4/link_icon_qisedeng.png
+SHA1-Digest: 3D64DkFvECFyehY7cm3Dp2Qvo8w=
+
+Name: res/mipmap-mdpi-v4/link_icon_qq.png
+SHA1-Digest: UhhdS8WShY2Q2WmsxJnIOzGnKlQ=
+
+Name: res/mipmap-mdpi-v4/link_icon_qqmusic.png
+SHA1-Digest: SdZc9k+PYOIRk4oR9qb50lFZKgs=
+
+Name: res/mipmap-mdpi-v4/link_icon_qs.png
+SHA1-Digest: H6U7o0+bY00Lwz1/kDiKgL3WZvY=
+
+Name: res/mipmap-mdpi-v4/link_icon_radio.png
+SHA1-Digest: CNT9nrZXwcvCr7qFE1K1qn2TV6s=
+
+Name: res/mipmap-mdpi-v4/link_icon_rearview.png
+SHA1-Digest: A4xzv6NM91XdGCvTnSJTlyX3cgM=
+
+Name: res/mipmap-mdpi-v4/link_icon_rightview.png
+SHA1-Digest: la512ApY1ZY9xgx0uXRB15w6SF0=
+
+Name: res/mipmap-mdpi-v4/link_icon_satellite.png
+SHA1-Digest: MrKbcqHIa+y7+NwLMj4JnTWTeR4=
+
+Name: res/mipmap-mdpi-v4/link_icon_setting.png
+SHA1-Digest: LxkbbYqA+AbgV49Fwu5UJRo+XkU=
+
+Name: res/mipmap-mdpi-v4/link_icon_sgou.png
+SHA1-Digest: HpY3QIN5iHUriMNGUwYJABeAnZ4=
+
+Name: res/mipmap-mdpi-v4/link_icon_speed.png
+SHA1-Digest: DX2j7PeH4tvtC5czJ87VpLSvmP8=
+
+Name: res/mipmap-mdpi-v4/link_icon_spotify.png
+SHA1-Digest: A09lJPikJlDwiT63yl+RuxHvmpU=
+
+Name: res/mipmap-mdpi-v4/link_icon_steeringwheel.png
+SHA1-Digest: 2fnDmE370iIIoQY2c7ihNTnCRtI=
+
+Name: res/mipmap-mdpi-v4/link_icon_sweet.png
+SHA1-Digest: O3cDu5tij92BNUat6QyW/VupwM0=
+
+Name: res/mipmap-mdpi-v4/link_icon_telephone.png
+SHA1-Digest: mLMwRPljB8fJox3GrcKunuEXasw=
+
+Name: res/mipmap-mdpi-v4/link_icon_texunvideo.png
+SHA1-Digest: xPc0lfxCKpOSKtebqLUlWiETFYI=
+
+Name: res/mipmap-mdpi-v4/link_icon_theme.png
+SHA1-Digest: HGocFXsvUuvTAaeCsQsIYQy22cM=
+
+Name: res/mipmap-mdpi-v4/link_icon_tingshucar.png
+SHA1-Digest: DEJ+0DV5JZjyNCzqSXXFdneYzqc=
+
+Name: res/mipmap-mdpi-v4/link_icon_tire.png
+SHA1-Digest: PuIspWWu0r4T4Neaxe4Fqn3Ctq4=
+
+Name: res/mipmap-mdpi-v4/link_icon_tool.png
+SHA1-Digest: eTEcDa2qpx8KwIckjEi0Yf3kK1U=
+
+Name: res/mipmap-mdpi-v4/link_icon_tpms.png
+SHA1-Digest: XTHoKE4Aee898fG/mQNfyEsN09M=
+
+Name: res/mipmap-mdpi-v4/link_icon_travel.png
+SHA1-Digest: sKCNGHE3zZGQ0H0Lnn/C9xN2iGw=
+
+Name: res/mipmap-mdpi-v4/link_icon_tuku.png
+SHA1-Digest: k9YuE8hFCFpECtXclATaPhEdMmU=
+
+Name: res/mipmap-mdpi-v4/link_icon_tv.png
+SHA1-Digest: XZia4eeBNv/3uhvVSfnhH2g4zlA=
+
+Name: res/mipmap-mdpi-v4/link_icon_upload.png
+SHA1-Digest: M0CvFx/vjjFzYnPZy0KxYe3gggg=
+
+Name: res/mipmap-mdpi-v4/link_icon_video.png
+SHA1-Digest: RBXBkOSBoDTut1Lz7/KLor1Ks1k=
+
+Name: res/mipmap-mdpi-v4/link_icon_voice.png
+SHA1-Digest: gLFn3gR9oz1zu2aG7dXgqiFLDvg=
+
+Name: res/mipmap-mdpi-v4/link_icon_waze.png
+SHA1-Digest: 5QQJIJnb2wmOjWUgRS6D7Vxo7Sw=
+
+Name: res/mipmap-mdpi-v4/link_icon_weather.png
+SHA1-Digest: zNLWYQ/vE6SChuKUXxT5MT+DSUA=
+
+Name: res/mipmap-mdpi-v4/link_icon_wechet.png
+SHA1-Digest: wg9ALejkR+nM1x9Kn2DpseirdFQ=
+
+Name: res/mipmap-mdpi-v4/link_icon_ximalaya.png
+SHA1-Digest: RPjl1JdPFZEItEgdqmqLdwLHP3c=
+
+Name: res/mipmap-mdpi-v4/link_icon_yilian.png
+SHA1-Digest: JiFWBkmdVoR+e0P8cYTL63HiHes=
+
+Name: res/mipmap-mdpi-v4/link_icon_youku.png
+SHA1-Digest: 2eQJpb+S5Ye5tyPOY24WOtFB6LU=
+
+Name: res/mipmap-mdpi-v4/link_icon_youtube.png
+SHA1-Digest: 68VzlmxVXOo2/mtyIwrV3+mzweQ=
+
+Name: res/mipmap-mdpi-v4/link_icon_youtubemusic.png
+SHA1-Digest: ym0T9/1M+8LH8cHTRLDpX3bQzDc=
+
+Name: res/mipmap-mdpi-v4/link_icon_zhuti.png
+SHA1-Digest: XgqbVHQRocra/UDvl8NwtHU+z5o=
+
+Name: res/mipmap-mdpi-v4/link_icon_zlink.png
+SHA1-Digest: m8b/jOhkW73cMXSLk6kmXH1v8YQ=
+
+Name: res/mipmap-mdpi-v4/link_icon_zuoyou.png
+SHA1-Digest: XoF4DZ3pi3ED8HzpGu4dS0es7WE=
+
+Name: res/mipmap-mdpi-v4/mute.png
+SHA1-Digest: g8WI4mSSjkXHsg+dLmMMLgcrei8=
+
+Name: res/mipmap-mdpi-v4/off.png
+SHA1-Digest: mwcxApNInRK8kCxmO5wt/MVq1WM=
+
+Name: res/mipmap-mdpi-v4/tingshucar.png
+SHA1-Digest: CWSDggZ6/mL5ZLZnkNHmiDfFVDA=
+
+Name: res/mipmap-mdpi-v4/unmute.png
+SHA1-Digest: PbwL2lax4e4XxUeYstp5pFdy63Q=
+
+Name: res/mipmap-mdpi-v4/volume_down.png
+SHA1-Digest: LThjYmS/LtktJgDuF4QKdB8K4Qw=
+
+Name: res/mipmap-mdpi-v4/volume_plus.png
+SHA1-Digest: lVtl52xW3pLWQjdtpd9Ui+zl0sg=
+
+Name: res/mipmap-mdpi-v4/weather_day_00.png
+SHA1-Digest: YZGzu0u7sL2GBVlOJC9xphF6RrY=
+
+Name: res/mipmap-mdpi-v4/weather_day_01.png
+SHA1-Digest: lZAh/8dW3GMLNXDp/Ec35N9NEqM=
+
+Name: res/mipmap-mdpi-v4/weather_day_02.png
+SHA1-Digest: 10S8xhoYx86aNTJ7CeeEFyN4cdw=
+
+Name: res/mipmap-mdpi-v4/weather_day_03.png
+SHA1-Digest: BffHaWocLUGlDFPqBnrjs1mPBCc=
+
+Name: res/mipmap-mdpi-v4/weather_day_04.png
+SHA1-Digest: UcZXfYMdKKZLE4Dq2PCf7GBSVYs=
+
+Name: res/mipmap-mdpi-v4/weather_day_05.png
+SHA1-Digest: RV/DpE+Q6FwsCg82F7uYbWFmp1Q=
+
+Name: res/mipmap-mdpi-v4/weather_day_06.png
+SHA1-Digest: GAi7BWaUzfUhiP1ZKeqiQJaYIqg=
+
+Name: res/mipmap-mdpi-v4/weather_day_07.png
+SHA1-Digest: 6PhjMBEXgs149Sw3tk8dMZKnueQ=
+
+Name: res/mipmap-mdpi-v4/weather_day_08.png
+SHA1-Digest: P2ltUoGuWWNzMDkSAyAkPzitHXM=
+
+Name: res/mipmap-mdpi-v4/weather_day_09.png
+SHA1-Digest: xyve/ribkfltXCgdDBG4F19Ybl0=
+
+Name: res/mipmap-mdpi-v4/weather_day_10.png
+SHA1-Digest: kYTPCzUIxhw7srW6I33Pb2bwka8=
+
+Name: res/mipmap-mdpi-v4/weather_day_11.png
+SHA1-Digest: ODFNMPketBz2+3mOtyTMEBT/bz0=
+
+Name: res/mipmap-mdpi-v4/weather_day_12.png
+SHA1-Digest: 1LfFdSq+LcVW5l9TpE6FaGRGpPo=
+
+Name: res/mipmap-mdpi-v4/weather_day_13.png
+SHA1-Digest: QDltx4CiPRYZZRlZJ5nWhpsHdmc=
+
+Name: res/mipmap-mdpi-v4/weather_day_14.png
+SHA1-Digest: 1MBAu7ZdMgesSwSsmjKhaHi546g=
+
+Name: res/mipmap-mdpi-v4/weather_day_15.png
+SHA1-Digest: LMtJEWTbaWGTWd8of13w0czk2XQ=
+
+Name: res/mipmap-mdpi-v4/weather_day_16.png
+SHA1-Digest: ZtDkEJU2xkhbBNrIYpHAIo19CCw=
+
+Name: res/mipmap-mdpi-v4/weather_day_17.png
+SHA1-Digest: h7efSYWxUTLfieUSf+fh9l55Dt4=
+
+Name: res/mipmap-mdpi-v4/weather_day_18.png
+SHA1-Digest: a4dRuCkHb+6DM8cgB+zpn5s99ls=
+
+Name: res/mipmap-mdpi-v4/weather_day_19.png
+SHA1-Digest: 2NzMI/iyo+zEeipeONa3AX8Mzx0=
+
+Name: res/mipmap-mdpi-v4/weather_day_20.png
+SHA1-Digest: WCaZVVaKvbabMmHSjKF9ZBYzLFQ=
+
+Name: res/mipmap-mdpi-v4/weather_day_21.png
+SHA1-Digest: Re9WRoveU45sivk4YECn0Q2WY+g=
+
+Name: res/mipmap-mdpi-v4/weather_day_22.png
+SHA1-Digest: SPC9DD3v5Q7Hx2S6ZFj58DaZzJQ=
+
+Name: res/mipmap-mdpi-v4/weather_day_23.png
+SHA1-Digest: m54DBkwJcWDr3CIfNm0ojaKlrU4=
+
+Name: res/mipmap-mdpi-v4/weather_day_24.png
+SHA1-Digest: Zc31scHQE9cNFj6GIn3CrmGHMa8=
+
+Name: res/mipmap-mdpi-v4/weather_day_25.png
+SHA1-Digest: IDBvLuUTi7taFDkwI3J3+BeuRMA=
+
+Name: res/mipmap-mdpi-v4/weather_day_26.png
+SHA1-Digest: 6IQvoobxlmghMF+QiJi1AosRNcI=
+
+Name: res/mipmap-mdpi-v4/weather_day_27.png
+SHA1-Digest: +/2BOVLITnigQi/TkexK/J+vhls=
+
+Name: res/mipmap-mdpi-v4/weather_day_28.png
+SHA1-Digest: TOWgnZv0MxMicd6eIkNOszGB7iQ=
+
+Name: res/mipmap-mdpi-v4/weather_day_29.png
+SHA1-Digest: BTcDIXemGtgpUuC8v/oiht8HlHk=
+
+Name: res/mipmap-mdpi-v4/weather_day_30.png
+SHA1-Digest: Fq/Nmv68Wvg4BJBZYuEaRpIgvpk=
+
+Name: res/mipmap-mdpi-v4/weather_day_31.png
+SHA1-Digest: 2UTE+PkJxBCJHgxRsiIT2HCZKyY=
+
+Name: res/mipmap-mdpi-v4/weather_day_53.png
+SHA1-Digest: iDJQn1ySqJ+mCFCl0Sq3jzt/tIA=
+
+Name: res/mipmap-night-hdpi-v8/apps_bg_01.png
+SHA1-Digest: btVv1SK9yg+ucwKMYo9W4Df6JEA=
+
+Name: res/mipmap-night-hdpi-v8/apps_bg_01_1600x720.png
+SHA1-Digest: 3vXaAvUCj/avAx1P4n7X7mH5nGc=
+
+Name: res/mipmap-night-hdpi-v8/apps_bg_01_1920x720.png
+SHA1-Digest: wBDnzHtTyFxx+dE0vRIT8KMuMsU=
+
+Name: res/mipmap-night-hdpi-v8/apps_bg_01_2000x1200.png
+SHA1-Digest: BE5R3ZQS50TebQeohYHZUs9iLnE=
+
+Name: res/mipmap-night-hdpi-v8/btn_bt_pp_icon.png
+SHA1-Digest: 8Phie1/7og+YPpVwOUEGYqLO0ds=
+
+Name: res/mipmap-night-hdpi-v8/btn_bt_pp_icon_press.png
+SHA1-Digest: 77KfXLhOzI8ZbYxwnrR7BG9owHo=
+
+Name: res/mipmap-night-hdpi-v8/btn_next_icon.png
+SHA1-Digest: dMldObvbOwHEjfSFXm/nPO4a598=
+
+Name: res/mipmap-night-hdpi-v8/btn_next_icon_press.png
+SHA1-Digest: jjPhGFrhNyim4QPdJXii/zqFHSE=
+
+Name: res/mipmap-night-hdpi-v8/btn_play_icon.png
+SHA1-Digest: HyZngmvF6GL2x3YNg+rQAtIMeH4=
+
+Name: res/mipmap-night-hdpi-v8/btn_play_icon_press.png
+SHA1-Digest: ER3S/uz+Frl7j49+PzjTrpByWtM=
+
+Name: res/mipmap-night-hdpi-v8/btn_previous_icon.png
+SHA1-Digest: H1OdH7q+i7XqPtQNmRK31EKfAjU=
+
+Name: res/mipmap-night-hdpi-v8/btn_previous_icon_press.png
+SHA1-Digest: DB67VoyZRlidbpWhdh1dIon+m9I=
+
+Name: res/mipmap-night-hdpi-v8/btn_radio_pp_icon.png
+SHA1-Digest: MjM416iBuU6XGIXmf3I0ZHV/OR4=
+
+Name: res/mipmap-night-hdpi-v8/btn_radio_pp_icon_press.png
+SHA1-Digest: 4NUigxfnaosCBqd30WD/yfa7m4w=
+
+Name: res/mipmap-night-hdpi-v8/btn_stop_icon.png
+SHA1-Digest: uHIxQVupgO073NfmtB8Ohp3awwY=
+
+Name: res/mipmap-night-hdpi-v8/btn_stop_icon_press.png
+SHA1-Digest: vJ5igPZ6/NOHkhOSMMydQA7+HbU=
+
+Name: res/mipmap-night-hdpi-v8/h_apps.png
+SHA1-Digest: k+3OHFZTGpx3JHim4aSaQY/E9yY=
+
+Name: res/mipmap-night-hdpi-v8/h_apps_bg.png
+SHA1-Digest: Z9EZT8+HnMPoqJDHQsYvtOBkdGc=
+
+Name: res/mipmap-night-hdpi-v8/h_apps_bg_1920x720.png
+SHA1-Digest: 3toL0nWU3QzsRgSTNQH4vQpnFnk=
+
+Name: res/mipmap-night-hdpi-v8/media_bt_default.png
+SHA1-Digest: HxwRWAPkxAY/QGrEF7tqpW5qRXw=
+
+Name: res/mipmap-night-hdpi-v8/media_img_bg.png
+SHA1-Digest: xMsw4djjeOxzc7xaDfXPx0EXQ/s=
+
+Name: res/mipmap-night-hdpi-v8/media_module_icon_bt.png
+SHA1-Digest: ngwY02XNaRm+A/ysaIGZ765mdJc=
+
+Name: res/mipmap-night-hdpi-v8/media_module_icon_cyb.png
+SHA1-Digest: GMOXtFISBO5itB1OR6saPZB5G8s=
+
+Name: res/mipmap-night-hdpi-v8/media_module_icon_kaola.png
+SHA1-Digest: 2qQbH8l5JC6Zb34DDH4XdOIfuBg=
+
+Name: res/mipmap-night-hdpi-v8/media_module_icon_kw.png
+SHA1-Digest: 23wKxhWUyTVvnOaK5TTmYzTDISw=
+
+Name: res/mipmap-night-hdpi-v8/media_module_icon_local_music.png
+SHA1-Digest: XgrKrI5o63XzfvMKlbcgIxKPUvs=
+
+Name: res/mipmap-night-hdpi-v8/media_module_icon_radio.png
+SHA1-Digest: r2YOMd3iHa4I3sM2+1QtD8K+4gI=
+
+Name: res/mipmap-night-hdpi-v8/media_module_icon_radio_net.png
+SHA1-Digest: FBMjCHuLJL8LxpdA0VDGH/DnTOo=
+
+Name: res/mipmap-night-hdpi-v8/media_module_icon_xmly.png
+SHA1-Digest: F2GswOrFR9ywuG6Ubg3tFau6o4M=
+
+Name: res/mipmap-night-hdpi-v8/media_music_default.png
+SHA1-Digest: txQut1Bb1iAJVjJN5afKtSLDh5A=
+
+Name: res/mipmap-night-hdpi-v8/music_bg.png
+SHA1-Digest: Lo6KkbpVQb2mmuxHitkuHGDLuEE=
+
+Name: res/mipmap-night-hdpi-v8/music_bg_1600x720.png
+SHA1-Digest: 0nzov2Lzc5ni06m5NJjvKJ8qiOs=
+
+Name: res/mipmap-night-hdpi-v8/music_bg_1920x720.png
+SHA1-Digest: ne1h/1li7O4wdwv0wTJIT3afVcQ=
+
+Name: res/mipmap-night-hdpi-v8/mute.png
+SHA1-Digest: +0uBUqSlWFa7hyg3oiOv1FXukdA=
+
+Name: res/mipmap-night-hdpi-v8/navigation_company_normal.png
+SHA1-Digest: kPZR1K0baeJ2BD4ndBWZgOOdn0Q=
+
+Name: res/mipmap-night-hdpi-v8/navigation_company_press.png
+SHA1-Digest: coP2VJWohEyflT3nzi8mDjkYhCo=
+
+Name: res/mipmap-night-hdpi-v8/navigation_home_normal.png
+SHA1-Digest: 0nVW+xqVli5iqDk59hbMCSuncSY=
+
+Name: res/mipmap-night-hdpi-v8/navigation_home_press.png
+SHA1-Digest: /BS12EfmaYtYANUdYWlsX90CHy0=
+
+Name: res/mipmap-night-hdpi-v8/radio_bg.png
+SHA1-Digest: uqYNjGPkucS0Kr46uaPHYXaDhBg=
+
+Name: res/mipmap-night-hdpi-v8/radio_bg_1600x720.png
+SHA1-Digest: x0jgxtzKJQpcrJZzMLfzLuZn2Q4=
+
+Name: res/mipmap-night-hdpi-v8/radio_bg_1920x720.png
+SHA1-Digest: cc3gNhJ1ecILMpsUly1LKv+USL4=
+
+Name: res/mipmap-night-hdpi-v8/time_dot.png
+SHA1-Digest: vnFyJDb4TMVj1tDbqCemQ9qXr7c=
+
+Name: res/mipmap-night-hdpi-v8/time_weather_bg.png
+SHA1-Digest: pwKSThhaPGrm0jZ6vZf4XXdjQwc=
+
+Name: res/mipmap-night-hdpi-v8/time_weather_bg_1920x720.png
+SHA1-Digest: bMFVOD+naErWvuv7oAKrJFtNSvg=
+
+Name: res/mipmap-night-hdpi-v8/weather_city_icon.png
+SHA1-Digest: KtKU3ASpqti24C2NZbakoX+HXOk=
+
+Name: resources.arsc
+SHA1-Digest: vNyTLGB2O+udceGTgR6KBkXnvFk=
+

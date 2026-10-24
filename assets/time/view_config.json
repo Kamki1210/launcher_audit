@@ -1,0 +1,55 @@
+{
+  "source": "local",
+  "attributes": [{
+    "": "年月日",
+    "id_name": "tv_time_day",
+    "width": -2,
+    "height": -2,
+    "gravity": "l_35|t_90",
+    "text_size": 14,
+    "text_color": "@color/day_night_text_color",
+    "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+  },
+    {
+      "": "星期几",
+      "id_name": "tv_time_week",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_33|t_113",
+      "text_size": 14,
+      "text_color": "@color/day_night_text_color",
+      "visibility": true,
+      "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+    },
+    {
+      "": "时分图片，使用图片时需配置",
+      "id_name": "ll_time_hour",
+      "width": 0,
+      "height": 0,
+      "gravity": "center_horizontal|t_204",
+      "visibility": false
+    },
+    {
+      "": "12小时制 am、pm",
+      "id_name": "tv_ap",
+      "width": -2,
+      "height": -2,
+      "text_size": 15,
+      "text_color": "@color/day_night_text_color",
+      "gravity": "l_183|t_29",
+      "visibility": true,
+      "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+    },
+    {
+      "": "时分文字，不使用图片时需配置",
+      "id_name": "tv_time_hour",
+      "width": -2,
+      "height": -2,
+      "text_size": 54,
+      "text_color": "@color/day_night_text_color",
+      "gravity": "l_18|t_11",
+      "visibility": true,
+      "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+    }
+  ]
+}

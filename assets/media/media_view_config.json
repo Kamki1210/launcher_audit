@@ -1,0 +1,170 @@
+{
+  "source": "theme",
+  "attributes": [
+    {
+      "": "媒体类型图片",
+      "id_name": "iv_media_head_img",
+      "width": 49,
+      "height": 49,
+      "gravity": "l_86|t_74",
+      "visibility": true
+    },
+    {
+      "": "媒体类型",
+      "id_name": "tv_media_type",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_140|t_101",
+      "visibility": true,
+      "text_size": 12,
+      "text_color": "@color/day_music_text_color",
+      "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+    },
+    {
+      "": "媒体图片",
+      "id_name": "iv_media_icon",
+      "width": 0,
+      "height": 0,
+      "gravity": "center",
+      "visibility": false,
+      "img_type": "round",
+      "img_radius":16,
+      "img_round":16
+    },
+    {
+      "": "媒体图片背景",
+      "id_name": "iv_media_icon_bg",
+      "width": 0,
+      "height": 0,
+      "gravity": "center",
+      "visibility": false
+    },
+    {
+      "": "名称",
+      "id_name": "tv_media_name",
+      "width": 240,
+      "height": -2,
+      "gravity": "l_89|t_128",
+      "text_size": 18,
+      "text_color": "@color/day_night_text_color",
+      "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+    },
+    {
+      "": "播放进度条",
+      "id_name": "pb_media_progress",
+      "companion_id_names": [
+        "lrc_pb_media_progress"
+      ],
+      "width": 356,
+      "height": 3,
+      "gravity": "center_horizontal|bottom",
+      "visibility": true
+    },
+    {
+      "": "上一曲按钮",
+      "id_name": "iv_media_pre",
+      "width": 60,
+      "height": 60,
+      "gravity": "bottom|l_67"
+    },
+    {
+      "": "播放暂停按钮",
+      "id_name": "iv_media_pp",
+      "width": 60,
+      "height": 60,
+      "gravity": "bottom|l_172"
+    },
+    {
+      "": "下一曲按钮",
+      "id_name": "iv_media_next",
+      "width": 60,
+      "height": 60,
+      "gravity": "bottom|l_277"
+    },
+    {
+      "": "收音类型图片",
+      "id_name": "iv_radio_head_img",
+      "width": 49,
+      "height": 49,
+      "gravity": "l_24|t_11",
+      "visibility": true
+    },
+    {
+      "": "收音媒体类型",
+      "id_name": "tv_radio_type",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_44|t_16",
+      "visibility": false,
+      "text_size": 16,
+      "text_color": "#ffffff"
+    },
+    {
+      "": "收音图片",
+      "id_name": "iv_radio_icon",
+      "width": 136,
+      "height": 136,
+      "gravity": "l_201|t_20",
+      "visibility": false,
+      "img_type": "round",
+      "img_radius": 10,
+      "img_round": 10
+    },
+    {
+      "": "收音频率",
+      "id_name": "tv_radio_name",
+      "width": 100,
+      "height": -2,
+      "gravity": "l_151|t_14",
+      "text_size": 32,
+      "text_color": "@color/day_night_text_color",
+      "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+    },
+    {
+      "": "收音频率类型AM、FM",
+      "id_name": "tv_radio_band",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_108|t_30",
+      "text_size": 16,
+      "text_color": "@color/day_night_text_color",
+      "visibility": true,
+      "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+    },
+    {
+      "": "收音频率单位",
+      "id_name": "tv_radio_unit",
+      "width": -2,
+      "height": -2,
+      "gravity": "l_274|t_30",
+      "text_size": 16,
+      "text_color": "@color/day_night_text_color",
+      "visibility": true,
+      "typeface": "fonts/HarmonyOS_Sans_Regular.ttf"
+    },
+    {
+      "": "收音上一曲按钮",
+      "id_name": "iv_radio_pre",
+      "width": 60,
+      "height": 60,
+      "gravity": "bottom|l_67",
+      "visibility": true
+    },
+    {
+      "": "收音播放暂停按钮",
+      "id_name": "iv_radio_pp",
+      "width": 60,
+      "height": 60,
+      "gravity": "bottom|l_172",
+      "visibility": true
+    },
+    {
+      "": "收音下一曲按钮",
+      "id_name": "iv_radio_next",
+      "width": 60,
+      "height": 60,
+      "gravity": "bottom|l_277",
+      "visibility": true
+    }
+  ]
+}

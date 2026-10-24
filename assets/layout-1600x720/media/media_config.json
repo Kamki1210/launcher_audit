@@ -1,0 +1,45 @@
+{
+  "source": "theme",
+  "image_path": "mipmap",
+  "btn_img_path": "drawable",
+  "background": "selector_media_bg",
+  "pre_btn_name": "selector_media_previous",
+  "play_btn_name": "selector_media_play",
+  "stop_btn_name": "selector_media_stop",
+  "next_btn_name": "selector_media_next",
+  "bt_btn_name": "selector_media_bt_pp",
+  "radio_btn_name": "selector_media_radio_pp",
+  "media_img_name": "media_music_default",
+  "bt_img_name": "media_bt_default",
+  "radio_img_name": "media_radio_default",
+  "media_img_rotate": true,
+  "duration": 6000,
+  "local_music_head": "media_module_icon_local_music",
+  "local_radio_head": "media_module_icon_radio",
+  "bt_music_head": "media_module_icon_bt",
+  "kw_music_head": "media_module_icon_kw",
+  "kl_radio_head": "media_module_icon_kaola",
+  "car_media_head": "media_module_icon_cyb",
+  "media_img_bg": "media_img_bg",
+  "media_img_bg_rotate": false,
+  "media_img_bg_rotate_duration": 10000,
+  "progress": {
+    "progress_color": "media_progress_color",
+    "progress_indicators": "progress_indicators_point",
+    "lrc_progress_color": "media_progress_color",
+    "lrc_progress_indicators": "progress_indicators_point"
+  },
+  "lyrics": {
+    "lrc_divider_height": 14,
+    "highlight_text_size": 22,
+    "highlight_text_color": "#FFFFFFFF",
+    "normal_text_size": 18,
+    "normal_text_color": "#55FFFFFF",
+    "layout_background": "lyrics_layout_bg",
+    "lyrics_background": "lyrics_bg"
+  },
+  "radio": {
+    "": "freq_switching_type:search 自动搜台, step 上下切台",
+    "freq_switching_type": "step"
+  }
+}

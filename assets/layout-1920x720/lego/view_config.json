@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    {
+      "": "标题",
+      "id_name": "tv_lego_title",
+      "width": -2,
+      "height": -2,
+      "gravity": "center_horizontal|t_260",
+      "text_size": 0,
+      "text_color": "#FFFFFFFF"
+    }
+  ]
+}

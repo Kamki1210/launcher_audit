@@ -1,0 +1,16 @@
+{
+  "pointer_img_name": "pointer",
+  "pointer_img_path": "mipmap",
+  "defect_angle": 120,
+  "offset_angle": 150,
+  "max_value": 240,
+  "layer": [{
+    "res_type": "img",
+    "layer_type": "progress",
+    "res_path": "mipmap", 
+    "width": 320,
+    "height": 320,
+    "res_name": "color"
+  }
+  ]
+}

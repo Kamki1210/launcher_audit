@@ -1,0 +1,33 @@
+{
+  "source": "theme",
+  "image_path": "mipmap",
+  "background": "apps_bg_01_1920x720",
+  "attr": {
+    "width": -1,
+    "height": -1,
+    "gravity": "t_154|l_89|r_89",
+    "icon_width": 140,
+    "icon_height": 140,
+    "row": 2,
+    "col": 8,
+    "row_gap": 72,
+    "col_gap": 65,
+    "default_bg_name": "app_default_img_bg",
+    "item_bg_name": "",
+    "scale": 0.7,
+    "apps_pos": "bottom"
+  },
+  "use_local_icon": false,
+  "force_local_config": false,
+  "config": [
+
+  ],
+  "filter": [
+    {
+      "": "存在车载设置时过滤设置图标",
+      "priority_pkg_name": "com.dofun.carsetting",
+      "filter_pkg_name": "com.android.settings",
+      "filter_cls_name": "com.android.settings.Settings"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "source": "theme",
+  "attributes": [
+    {
+      "": "APP 图标",
+      "id_name": "iv_app_icon",
+      "width": 80,
+      "height": 80,
+      "gravity": "center_horizontal|top",
+      "visibility": true
+    },
+    {
+      "": "app名称",
+      "id_name": "tv_item",
+      "width": -2,
+      "height": -2,
+      "visibility": true,
+      "gravity": "center_horizontal|bottom|b_0",
+      "text_size": 16,
+      "text_color": "@color/day_night_text_color",
+      "is_shadow": "true"
+    }
+  ]
+}
